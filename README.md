@@ -11,4 +11,12 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0001-two-sum) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
