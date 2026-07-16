@@ -1,0 +1,17 @@
+class Solution {
+    public List<String> readBinaryWatch(int turnedOn) {
+        List<String> list = new ArrayList<>();
+        for(int hour = 0 ; hour < 12 ; hour++){
+            for(int min = 0 ; min < 60 ; min++){
+                if(Integer.bitCount(min) + Integer.bitCount(hour) == turnedOn){
+                    if(min < 10){
+                        list.add(String.format("%d:0%d" , hour , min));
+                    }else{
+                        list.add(String.format("%d:%d" , hour , min));
+                    }
+                }
+            }
+        }
+        return list;
+    }
+}
