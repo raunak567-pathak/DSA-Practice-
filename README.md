@@ -7,6 +7,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0001-two-sum) |
+| [0039-combination-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0039-combination-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
@@ -36,6 +37,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0039-combination-sum) |
 | [0401-binary-watch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0401-binary-watch) |
 ## Bit Manipulation
 |  |
