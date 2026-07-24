@@ -31,6 +31,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0002-add-two-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
 |  |
@@ -64,6 +65,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0002-add-two-numbers) |
 | [0876-middle-of-the-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -89,4 +91,8 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0018-4sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0018-4sum) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
