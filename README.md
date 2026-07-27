@@ -11,6 +11,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0039-combination-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0039-combination-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0018-4sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0018-4sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0022-generate-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
