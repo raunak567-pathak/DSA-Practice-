@@ -71,6 +71,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -102,6 +103,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0021-merge-two-sorted-lists) |
 ## Dynamic Programming
 |  |
 | ------- |
