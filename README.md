@@ -10,6 +10,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0018-4sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0039-combination-sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
@@ -18,6 +19,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0001-two-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
@@ -40,6 +42,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0002-add-two-numbers) |
+| [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Number Theory
@@ -55,6 +58,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0401-binary-watch) |
 ## Tree
 |  |
@@ -94,6 +98,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -103,6 +108,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0018-4sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0018-4sum) |
 | [0242-valid-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Recursion
