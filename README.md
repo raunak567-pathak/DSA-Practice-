@@ -25,6 +25,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0001-two-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0142-linked-list-cycle-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0387-first-unique-character-in-a-string) |
@@ -40,6 +41,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0011-container-with-most-water](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0011-container-with-most-water) |
 | [0018-4sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0018-4sum) |
 | [0125-valid-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0125-valid-palindrome) |
+| [0142-linked-list-cycle-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0344-reverse-string) |
@@ -114,6 +116,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0002-add-two-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0021-merge-two-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0876-middle-of-the-linked-list) |
 ## Stack
 |  |
@@ -175,4 +178,8 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0387-first-unique-character-in-a-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
