@@ -63,6 +63,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0002-add-two-numbers) |
+| [0089-gray-code](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -76,11 +77,13 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0022-generate-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0039-combination-sum) |
+| [0089-gray-code](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0089-gray-code) |
 | [0401-binary-watch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1980-find-unique-binary-string) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0089-gray-code](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0089-gray-code) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0401-binary-watch) |
 ## Tree
