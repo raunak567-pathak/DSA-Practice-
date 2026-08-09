@@ -61,6 +61,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0387-first-unique-character-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0387-first-unique-character-in-a-string) |
 | [0680-valid-palindrome-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0709-to-lower-case) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1980-find-unique-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1980-find-unique-binary-string) |
 | [2405-optimal-partition-of-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2405-optimal-partition-of-string) |
@@ -126,12 +127,14 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Stack
 |  |
 | ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0680-valid-palindrome-ii) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2405-optimal-partition-of-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -187,4 +190,8 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0142-linked-list-cycle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 <!---LeetCode Topics End-->
