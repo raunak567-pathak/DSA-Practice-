@@ -84,6 +84,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0002-add-two-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0009-palindrome-number) |
 | [0089-gray-code](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0504-base-7](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -105,6 +106,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0089-gray-code) |
+| [0231-power-of-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0401-binary-watch) |
 ## Tree
@@ -201,6 +203,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0021-merge-two-sorted-lists](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0231-power-of-two) |
 ## Dynamic Programming
 |  |
 | ------- |
