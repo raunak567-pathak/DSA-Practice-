@@ -87,6 +87,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0231-power-of-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0342-power-of-four) |
 | [0504-base-7](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -109,6 +110,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0089-gray-code](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0401-binary-watch) |
 ## Tree
 |  |
@@ -206,6 +208,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0206-reverse-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0342-power-of-four) |
 ## Dynamic Programming
 |  |
 | ------- |
