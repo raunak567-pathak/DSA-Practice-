@@ -11,6 +11,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0018-4sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0075-sort-colors) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
@@ -93,6 +94,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0002-add-two-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0009-palindrome-number) |
 | [0089-gray-code](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0089-gray-code) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0231-power-of-two) |
@@ -172,6 +174,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0032-longest-valid-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0856-score-of-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
