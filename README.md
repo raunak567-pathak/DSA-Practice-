@@ -93,6 +93,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0002-add-two-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0009-palindrome-number) |
 | [0089-gray-code](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0089-gray-code) |
+| [0172-factorial-trailing-zeroes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
