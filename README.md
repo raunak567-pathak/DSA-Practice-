@@ -19,6 +19,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0554-brick-wall](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0739-daily-temperatures](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
 | [0948-bag-of-tokens](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0948-bag-of-tokens) |
 | [1089-duplicate-zeros](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1089-duplicate-zeros) |
@@ -180,6 +181,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0144-binary-tree-preorder-traversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0739-daily-temperatures](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -200,6 +202,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0739-daily-temperatures) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2487-remove-nodes-from-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2487-remove-nodes-from-linked-list) |
 ## Binary Search
