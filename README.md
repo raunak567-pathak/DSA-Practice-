@@ -18,6 +18,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0189-rotate-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0283-move-zeroes) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0554-brick-wall](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -48,6 +49,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0554-brick-wall](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
