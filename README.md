@@ -11,6 +11,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0018-4sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0039-combination-sum) |
 | [0075-sort-colors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0075-sort-colors) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -224,6 +225,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0011-container-with-most-water) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0409-longest-palindrome) |
 | [0680-valid-palindrome-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0680-valid-palindrome-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0769-max-chunks-to-make-sorted) |
@@ -292,6 +294,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0022-generate-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0032-longest-valid-parentheses) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
 | [2439-minimize-maximum-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2439-minimize-maximum-of-array) |
 ## Heap (Priority Queue)
