@@ -28,6 +28,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0554-brick-wall](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
 | [0739-daily-temperatures](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
@@ -87,6 +88,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0283-move-zeroes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0344-reverse-string) |
+| [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0876-middle-of-the-linked-list) |
 | [0948-bag-of-tokens](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0948-bag-of-tokens) |
@@ -275,6 +277,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0287-find-the-duplicate-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2439-minimize-maximum-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2439-minimize-maximum-of-array) |
 | [2498-frog-jump-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2498-frog-jump-ii) |
@@ -283,6 +286,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
+| [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -293,6 +297,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
 | [0769-max-chunks-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0791-custom-sort-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0791-custom-sort-string) |
 | [0948-bag-of-tokens](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0948-bag-of-tokens) |
@@ -327,6 +332,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Queue
 |  |
