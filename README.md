@@ -21,6 +21,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0189-rotate-array) |
+| [0260-single-number-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
@@ -185,6 +186,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0137-single-number-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
 | [0231-power-of-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0342-power-of-four) |
