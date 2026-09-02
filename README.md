@@ -182,6 +182,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0287-find-the-duplicate-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0401-binary-watch) |
+| [0461-hamming-distance](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0461-hamming-distance) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Tree
 |  |
