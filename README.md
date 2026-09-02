@@ -70,6 +70,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0791-custom-sort-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0791-custom-sort-string) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1980-find-unique-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1980-find-unique-binary-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
@@ -125,6 +126,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1980-find-unique-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1980-find-unique-binary-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -187,6 +189,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0401-binary-watch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0461-hamming-distance) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Tree
@@ -397,10 +400,12 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -447,4 +452,8 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
