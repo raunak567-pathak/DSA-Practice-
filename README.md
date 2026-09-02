@@ -51,6 +51,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2439-minimize-maximum-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2439-minimize-maximum-of-array) |
 | [2498-frog-jump-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2498-frog-jump-ii) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
+| [3467-transform-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3467-transform-array-by-parity) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3731-find-missing-elements) |
@@ -336,6 +337,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3467-transform-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3731-find-missing-elements) |
 ## Recursion
 |  |
@@ -378,6 +380,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3467-transform-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Floyd's Cycle Finding Algorithm
 |  |
