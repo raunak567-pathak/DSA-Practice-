@@ -107,6 +107,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0032-longest-valid-parentheses) |
+| [0067-add-binary](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0242-valid-anagram) |
@@ -137,6 +138,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0002-add-two-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0172-factorial-trailing-zeroes) |
@@ -171,6 +173,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
@@ -367,6 +370,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0067-add-binary) |
 | [2211-count-collisions-on-a-road](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2390-removing-stars-from-a-string) |
 ## Quicksort
