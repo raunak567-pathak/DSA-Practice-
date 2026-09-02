@@ -72,6 +72,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1394-find-lucky-integer-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1980-find-unique-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1980-find-unique-binary-string) |
+| [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
 | [2367-number-of-arithmetic-triplets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2367-number-of-arithmetic-triplets) |
 | [2405-optimal-partition-of-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2405-optimal-partition-of-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -128,6 +129,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1980-find-unique-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1980-find-unique-binary-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2211-count-collisions-on-a-road](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2211-count-collisions-on-a-road) |
+| [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
 | [2390-removing-stars-from-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -185,6 +187,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0401-binary-watch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0461-hamming-distance) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1018-binary-prefix-divisible-by-5) |
+| [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Tree
 |  |
@@ -356,6 +359,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0169-majority-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0387-first-unique-character-in-a-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1394-find-lucky-integer-in-an-array) |
+| [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Floyd's Cycle Finding Algorithm
