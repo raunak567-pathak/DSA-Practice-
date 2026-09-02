@@ -44,6 +44,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1394-find-lucky-integer-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1980-find-unique-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1980-find-unique-binary-string) |
@@ -80,6 +81,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1512-number-of-good-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1512-number-of-good-pairs) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -172,6 +174,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0504-base-7](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
+| [1512-number-of-good-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1512-number-of-good-pairs) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2745-construct-the-longest-new-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2745-construct-the-longest-new-string) |
@@ -384,6 +387,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0387-first-unique-character-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0387-first-unique-character-in-a-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1512-number-of-good-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1512-number-of-good-pairs) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2206-divide-array-into-equal-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2206-divide-array-into-equal-pairs) |
