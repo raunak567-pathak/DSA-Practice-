@@ -229,6 +229,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0145-binary-tree-postorder-traversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0226-invert-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
@@ -256,6 +257,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0145-binary-tree-postorder-traversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0226-invert-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
@@ -390,6 +392,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Queue
 |  |
@@ -508,4 +511,16 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Design
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
