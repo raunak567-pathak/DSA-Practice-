@@ -20,10 +20,12 @@ class Solution {
         q.offer(root);
 
         while(!q.isEmpty()){
+
             int n = q.size();
             long sum = 0 ;
 
             for(int i = 0 ; i < n ; i++){
+
                 TreeNode node = q.poll();
                 sum += node.val;
 
@@ -31,7 +33,6 @@ class Solution {
                 if(node.right != null)q.offer(node.right);
             }
             pq.offer(sum);
-
 
             if(pq.size() > k){
                 pq.poll();
