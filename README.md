@@ -209,6 +209,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1512-number-of-good-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1512-number-of-good-pairs) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2178-maximum-split-of-positive-even-integers) |
+| [2485-find-the-pivot-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2485-find-the-pivot-integer) |
 | [2745-construct-the-longest-new-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2745-construct-the-longest-new-string) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -540,6 +541,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0560-subarray-sum-equals-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0560-subarray-sum-equals-k) |
 | [1991-find-the-middle-index-in-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1991-find-the-middle-index-in-array) |
 | [2439-minimize-maximum-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2439-minimize-maximum-of-array) |
+| [2485-find-the-pivot-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2485-find-the-pivot-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
