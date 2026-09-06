@@ -245,6 +245,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0260-single-number-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0342-power-of-four) |
 | [0401-binary-watch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0461-hamming-distance) |
@@ -439,6 +440,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0022-generate-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0032-longest-valid-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0338-counting-bits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2439-minimize-maximum-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2439-minimize-maximum-of-array) |
