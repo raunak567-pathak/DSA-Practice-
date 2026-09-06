@@ -507,6 +507,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
