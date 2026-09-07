@@ -15,6 +15,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0039-combination-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0041-first-missing-positive) |
 | [0075-sort-colors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0088-merge-sorted-array) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0137-single-number-ii) |
@@ -133,6 +134,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0018-4sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -416,6 +418,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0018-4sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
