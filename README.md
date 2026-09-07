@@ -30,6 +30,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
+| [0376-wiggle-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -362,6 +363,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0011-container-with-most-water](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0376-wiggle-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0409-longest-palindrome) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -474,6 +476,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0032-longest-valid-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0032-longest-valid-parentheses) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0338-counting-bits) |
+| [0376-wiggle-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0376-wiggle-subsequence) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2439-minimize-maximum-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2439-minimize-maximum-of-array) |
