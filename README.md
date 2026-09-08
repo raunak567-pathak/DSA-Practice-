@@ -27,6 +27,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0189-rotate-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0283-move-zeroes) |
@@ -99,6 +100,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0387-first-unique-character-in-a-string) |
@@ -438,6 +440,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0088-merge-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -510,6 +513,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0387-first-unique-character-in-a-string) |
 | [0692-top-k-frequent-words](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -614,6 +618,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0229-majority-element-ii) |
 ## Brainteaser
 |  |
 | ------- |
