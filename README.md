@@ -90,6 +90,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3731-find-missing-elements) |
+| [3804-number-of-centered-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3804-number-of-centered-subarrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3731-find-missing-elements) |
+| [3804-number-of-centered-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3804-number-of-centered-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -570,6 +572,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [2367-number-of-arithmetic-triplets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2367-number-of-arithmetic-triplets) |
+| [3804-number-of-centered-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3804-number-of-centered-subarrays) |
 ## Rolling Hash
 |  |
 | ------- |
