@@ -261,6 +261,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3871-count-commas-in-range-ii) |
 ## Number Theory
 |  |
 | ------- |
