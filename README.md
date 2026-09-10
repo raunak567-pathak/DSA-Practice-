@@ -45,6 +45,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0692-top-k-frequent-words) |
 | [0724-find-pivot-index](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
 | [0739-daily-temperatures](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0769-max-chunks-to-make-sorted) |
@@ -463,6 +464,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0532-k-diff-pairs-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
+| [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -702,6 +704,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -716,6 +719,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
 | [2762-continuous-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2762-continuous-subarrays) |
 ## Monotonic Queue
 |  |
@@ -753,4 +757,8 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
