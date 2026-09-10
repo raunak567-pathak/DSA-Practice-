@@ -19,7 +19,9 @@ class Solution {
         helper(root , root.val);
         return count ;
     }
-    private void helper(TreeNode root , int max){
+
+    public void helper(TreeNode root , int max){
+
         if(root == null)return ;
 
         if(root.val >= max){
