@@ -53,6 +53,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0769-max-chunks-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0867-transpose-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0867-transpose-matrix) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
+| [0905-sort-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0948-bag-of-tokens) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -181,6 +182,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0680-valid-palindrome-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0905-sort-array-by-parity) |
 | [0948-bag-of-tokens](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0948-bag-of-tokens) |
 | [1089-duplicate-zeros](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -518,6 +520,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0692-top-k-frequent-words](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0692-top-k-frequent-words) |
 | [0769-max-chunks-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0791-custom-sort-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0791-custom-sort-string) |
+| [0905-sort-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0948-bag-of-tokens) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
