@@ -37,6 +37,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0554-brick-wall) |
@@ -187,6 +188,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0287-find-the-duplicate-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0349-intersection-of-two-arrays) |
+| [0475-heaters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
@@ -494,6 +496,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0287-find-the-duplicate-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0475-heaters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
@@ -532,6 +535,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0349-intersection-of-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0475-heaters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
