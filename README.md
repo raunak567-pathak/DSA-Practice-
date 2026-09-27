@@ -240,6 +240,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1408-string-matching-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1408-string-matching-in-an-array) |
@@ -442,6 +443,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0856-score-of-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2211-count-collisions-on-a-road) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -658,6 +660,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0032-longest-valid-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Simulation
 |  |
