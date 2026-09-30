@@ -27,6 +27,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0219-contains-duplicate-ii) |
@@ -524,6 +525,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0035-search-insert-position](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0349-intersection-of-two-arrays) |
@@ -545,6 +547,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
+| [0209-minimum-size-subarray-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0219-contains-duplicate-ii) |
 | [0567-permutation-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
@@ -767,6 +770,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1422-maximum-score-after-splitting-a-string) |
