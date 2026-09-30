@@ -113,6 +113,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3731-find-missing-elements) |
 | [3804-number-of-centered-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3804-number-of-centered-subarrays) |
 ## Hash Table
@@ -175,6 +176,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3719-longest-balanced-subarray-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3731-find-missing-elements) |
 | [3804-number-of-centered-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3804-number-of-centered-subarrays) |
 ## Two Pointers
@@ -774,6 +776,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2485-find-the-pivot-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2485-find-the-pivot-integer) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3707-equal-score-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3707-equal-score-substrings) |
+| [3719-longest-balanced-subarray-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3719-longest-balanced-subarray-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -783,6 +786,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0347-top-k-frequent-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0912-sort-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [3719-longest-balanced-subarray-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3719-longest-balanced-subarray-i) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -878,6 +882,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
+| [3719-longest-balanced-subarray-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
 | ------- |
