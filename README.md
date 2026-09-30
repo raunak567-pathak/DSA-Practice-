@@ -280,6 +280,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3174-clear-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3174-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3707-equal-score-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3707-equal-score-substrings) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Math
 |  |
 | ------- |
@@ -464,6 +465,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2390-removing-stars-from-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2390-removing-stars-from-a-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2487-remove-nodes-from-linked-list) |
 | [3174-clear-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3174-clear-digits) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Greedy
 |  |
 | ------- |
@@ -673,6 +675,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3467-transform-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
