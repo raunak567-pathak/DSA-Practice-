@@ -286,6 +286,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0002-add-two-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -617,6 +618,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0032-longest-valid-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0338-counting-bits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0376-wiggle-subsequence) |
@@ -886,4 +888,8 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [2285-maximum-total-importance-of-roads](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2285-maximum-total-importance-of-roads) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
