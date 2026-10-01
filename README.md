@@ -107,6 +107,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2942-find-words-containing-character](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2942-find-words-containing-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2974-minimum-number-game) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3206-alternating-groups-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3206-alternating-groups-i) |
@@ -173,6 +174,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2405-optimal-partition-of-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2405-optimal-partition-of-string) |
 | [2465-number-of-distinct-averages](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2465-number-of-distinct-averages) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [2965-find-missing-and-repeated-values](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -318,6 +320,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2364-count-number-of-bad-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2364-count-number-of-bad-pairs) |
 | [2485-find-the-pivot-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2485-find-the-pivot-integer) |
 | [2745-construct-the-longest-new-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2745-construct-the-longest-new-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2965-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -820,6 +823,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2017-grid-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2017-grid-game) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2965-find-missing-and-repeated-values](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2965-find-missing-and-repeated-values) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
