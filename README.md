@@ -31,6 +31,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0215-kth-largest-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0221-maximal-square) |
 | [0229-majority-element-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0260-single-number-iii) |
@@ -633,6 +634,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0055-jump-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0221-maximal-square](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0221-maximal-square) |
 | [0338-counting-bits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0376-wiggle-subsequence) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
@@ -819,6 +821,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0766-toeplitz-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0867-transpose-matrix) |
