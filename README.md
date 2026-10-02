@@ -318,6 +318,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0728-self-dividing-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1512-number-of-good-pairs) |
 | [1686-stone-game-vi](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1686-stone-game-vi) |
@@ -455,6 +456,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0206-reverse-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0206-reverse-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0876-middle-of-the-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
