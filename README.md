@@ -79,6 +79,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1470-shuffle-the-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1512-number-of-good-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1528-shuffle-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -219,6 +220,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0948-bag-of-tokens](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0948-bag-of-tokens) |
 | [1089-duplicate-zeros](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1813-sentence-similarity-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1813-sentence-similarity-iii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -547,6 +549,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0744-find-smallest-letter-greater-than-target](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2439-minimize-maximum-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2439-minimize-maximum-of-array) |
 | [2498-frog-jump-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2498-frog-jump-ii) |
@@ -600,6 +603,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1686-stone-game-vi](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1686-stone-game-vi) |
@@ -788,6 +792,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0560-subarray-sum-equals-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0724-find-pivot-index) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1422-maximum-score-after-splitting-a-string) |
+| [1508-range-sum-of-sorted-subarray-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1732-find-the-highest-altitude](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
