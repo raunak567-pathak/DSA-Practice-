@@ -1,16 +1,20 @@
 class Solution {
     public int minimumPushes(String word) {
-        int [] freq = new int [26];
+        
+        int [] freq = new int [26] ;
+
         for(char c : word.toCharArray()){
-            freq[ c - 'a']++;
+            freq[c - 'a']++;
         }
-        Arrays.sort(freq);
-        int push =  1 ;
-        int count = 0;
+
+        Arrays.sort(freq) ;
+        int push =  1;
+        int count = 0 ;
         int ans = 0 ;
 
         for(int i = 25 ; i >= 0 ; i--){
-            if(freq[i] == 0)break;
+
+            if(freq[i] == 0)break ;
 
             ans += freq[i] * push ;
             count++ ;
@@ -19,6 +23,6 @@ class Solution {
                 push++;
             }
         }
-        return ans;
+        return ans ;
     }
 }
