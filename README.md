@@ -47,6 +47,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0475-heaters) |
+| [0485-max-consecutive-ones](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0554-brick-wall) |
