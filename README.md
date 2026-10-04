@@ -44,6 +44,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0349-intersection-of-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0376-wiggle-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0413-arithmetic-slices](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0413-arithmetic-slices) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0475-heaters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0475-heaters) |
@@ -575,6 +576,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0219-contains-duplicate-ii) |
+| [0413-arithmetic-slices](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0413-arithmetic-slices) |
 | [0567-permutation-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
@@ -662,6 +664,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0322-coin-change](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0338-counting-bits) |
 | [0376-wiggle-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0376-wiggle-subsequence) |
+| [0413-arithmetic-slices](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0413-arithmetic-slices) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
