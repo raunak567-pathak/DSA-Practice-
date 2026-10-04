@@ -105,6 +105,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2364-count-number-of-bad-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2364-count-number-of-bad-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2367-number-of-arithmetic-triplets) |
+| [2401-longest-nice-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2401-longest-nice-subarray) |
 | [2439-minimize-maximum-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2439-minimize-maximum-of-array) |
 | [2465-number-of-distinct-averages](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2465-number-of-distinct-averages) |
 | [2498-frog-jump-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2498-frog-jump-ii) |
@@ -375,6 +376,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [2206-divide-array-into-equal-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
+| [2401-longest-nice-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2401-longest-nice-subarray) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Tree
 |  |
@@ -577,6 +579,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2401-longest-nice-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2401-longest-nice-subarray) |
 | [2762-continuous-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2762-continuous-subarrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3206-alternating-groups-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3206-alternating-groups-i) |
