@@ -28,6 +28,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0217-contains-duplicate) |
@@ -317,6 +318,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0150-evaluate-reverse-polish-notation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0263-ugly-number) |
@@ -351,6 +353,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0258-add-digits) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2413-smallest-even-multiple) |
@@ -781,6 +784,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0204-count-primes) |
 | [2367-number-of-arithmetic-triplets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2427-number-of-common-factors) |
 | [3127-make-a-square-with-the-same-color](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3127-make-a-square-with-the-same-color) |
@@ -987,4 +991,16 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2427-number-of-common-factors) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
