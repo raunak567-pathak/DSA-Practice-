@@ -341,6 +341,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2427-number-of-common-factors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2485-find-the-pivot-integer) |
 | [2745-construct-the-longest-new-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2745-construct-the-longest-new-string) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2965-find-missing-and-repeated-values) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -354,6 +355,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2427-number-of-common-factors) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Backtracking
 |  |
@@ -479,6 +481,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2487-remove-nodes-from-linked-list) |
+| [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Stack
 |  |
