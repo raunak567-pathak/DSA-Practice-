@@ -16,6 +16,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0039-combination-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0088-merge-sorted-array) |
@@ -678,6 +679,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0022-generate-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -851,6 +853,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0215-kth-largest-element-in-an-array) |
