@@ -425,6 +425,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0951-flip-equivalent-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -443,6 +444,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0951-flip-equivalent-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2331-evaluate-boolean-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -476,6 +478,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0951-flip-equivalent-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2331-evaluate-boolean-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
 |  |
