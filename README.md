@@ -94,6 +94,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1686-stone-game-vi](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1686-stone-game-vi) |
 | [1732-find-the-highest-altitude](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1732-find-the-highest-altitude) |
 | [1813-sentence-similarity-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1813-sentence-similarity-iii) |
+| [1816-truncate-sentence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1816-truncate-sentence) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -292,6 +293,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1678-goal-parser-interpretation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1678-goal-parser-interpretation) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1813-sentence-similarity-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1813-sentence-similarity-iii) |
+| [1816-truncate-sentence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1816-truncate-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
