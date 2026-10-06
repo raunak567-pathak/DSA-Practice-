@@ -422,6 +422,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0872-leaf-similar-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0872-leaf-similar-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -441,6 +442,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0404-sum-of-left-leaves) |
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
+| [0872-leaf-similar-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0872-leaf-similar-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -475,6 +477,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0872-leaf-similar-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0872-leaf-similar-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0951-flip-equivalent-binary-trees) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
