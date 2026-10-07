@@ -257,6 +257,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0032-longest-valid-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0242-valid-anagram) |
@@ -709,6 +710,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0053-maximum-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0221-maximal-square](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0221-maximal-square) |
