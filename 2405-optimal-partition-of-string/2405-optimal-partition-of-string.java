@@ -1,8 +1,8 @@
 class Solution {
     public int partitionString(String s) {
-        Set<Character> set = new HashSet<>();
+        Set<Character> set = new HashSet<>() ;
 
-        int count =  1;
+        int count = 1 ;
 
         for(char c : s.toCharArray()){
 
@@ -10,8 +10,8 @@ class Solution {
                 count++;
                 set.clear();
             }
-            set.add(c);
+            set.add(c) ;
         }
-        return count;
+        return count ;
     }
 }
