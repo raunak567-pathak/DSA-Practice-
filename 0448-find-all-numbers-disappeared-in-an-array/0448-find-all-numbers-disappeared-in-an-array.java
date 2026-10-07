@@ -8,14 +8,13 @@ class Solution {
             set.add(num);
         }
 
-        for(int i =  1; i <= n ; i++){
-
+        for(int i =  1 ; i <= n ; i++){
             if(!set.contains(i)){
                 list.add(i);
             }else{
-                continue;
+                continue ;
             }
         }
-        return list;
+        return list ;
     }
 }
