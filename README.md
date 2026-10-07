@@ -285,6 +285,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1408-string-matching-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1408-string-matching-in-an-array) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -407,6 +408,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0401-binary-watch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0461-hamming-distance) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1018-binary-prefix-divisible-by-5) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1486-xor-operation-in-an-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1525-number-of-good-ways-to-split-a-string) |
@@ -802,6 +804,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0258-add-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0415-add-strings) |
 | [0867-transpose-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0867-transpose-matrix) |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2149-rearrange-array-elements-by-sign) |
