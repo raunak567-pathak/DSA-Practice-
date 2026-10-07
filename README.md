@@ -337,6 +337,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0258-add-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0342-power-of-four) |
 | [0415-add-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0415-add-strings) |
@@ -847,11 +848,13 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Minimax
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
 | [1686-stone-game-vi](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1686-stone-game-vi) |
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
 | [1686-stone-game-vi](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1686-stone-game-vi) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -901,6 +904,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0292-nim-game) |
 | [2745-construct-the-longest-new-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2745-construct-the-longest-new-string) |
 ## Pigeonhole Principle
 |  |
@@ -1044,4 +1048,12 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0069-sqrtx) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
