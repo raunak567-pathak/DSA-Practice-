@@ -1,17 +1,17 @@
 class MyCalendar {
 List<int[]> list ;
     public MyCalendar() {
-        list = new ArrayList<>();
+        list = new ArrayList<>() ;
     }
     
     public boolean book(int startTime, int endTime) {
         for(int [] p : list){
 
-            while(startTime < p[1] && p[0] < endTime){
-                return false;
-            }
+        while(startTime < p[1]  && p[0] < endTime){
+            return false;
         }
-        list.add(new int []{startTime , endTime});
+        }
+        list.add(new int [] {startTime , endTime});
         return true ;
     }
 }
