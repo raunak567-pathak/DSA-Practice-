@@ -7,12 +7,12 @@ class Solution {
             nums[0] = -nums[0];
         }
 
-        int count =  0 ;
+        int sum = 0 ;
 
         for(int num : nums){
 
-            count += num ;
+            sum += num ;
         }
-        return count ;
+        return sum ;
     }
 }
