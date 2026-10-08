@@ -83,6 +83,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1051-height-checker](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1089-duplicate-zeros) |
 | [1207-unique-number-of-occurrences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1207-unique-number-of-occurrences) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -365,6 +366,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0728-self-dividing-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0728-self-dividing-numbers) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1323-maximum-69-number) |
 | [1486-xor-operation-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1486-xor-operation-in-an-array) |
@@ -583,6 +585,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0948-bag-of-tokens](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0948-bag-of-tokens) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1323-maximum-69-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1323-maximum-69-number) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1686-stone-game-vi](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1686-stone-game-vi) |
