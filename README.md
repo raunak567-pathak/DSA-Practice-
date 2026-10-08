@@ -62,6 +62,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0554-brick-wall](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0561-array-partition) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0692-top-k-frequent-words) |
@@ -240,6 +241,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0475-heaters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0567-permutation-in-string) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0696-count-binary-substrings) |
@@ -546,6 +548,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0234-palindrome-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0445-add-two-numbers-ii) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0856-score-of-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0856-score-of-parentheses) |
@@ -581,6 +584,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0561-array-partition) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0680-valid-palindrome-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0680-valid-palindrome-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -616,6 +620,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0402-remove-k-digits) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0739-daily-temperatures](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0769-max-chunks-to-make-sorted) |
 | [1019-next-greater-node-in-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1019-next-greater-node-in-linked-list) |
@@ -690,6 +695,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0475-heaters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0561-array-partition](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0561-array-partition) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0692-top-k-frequent-words) |
