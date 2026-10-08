@@ -90,6 +90,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1394-find-lucky-integer-in-an-array) |
+| [1395-count-number-of-teams](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1395-count-number-of-teams) |
 | [1408-string-matching-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1408-string-matching-in-an-array) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -763,6 +764,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
+| [1395-count-number-of-teams](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1395-count-number-of-teams) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1668-maximum-repeating-substring) |
@@ -1046,6 +1048,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
+| [1395-count-number-of-teams](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1395-count-number-of-teams) |
 | [3719-longest-balanced-subarray-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3719-longest-balanced-subarray-i) |
 ## Merge Sort
 |  |
@@ -1105,4 +1108,8 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0292-nim-game) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1395-count-number-of-teams](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1395-count-number-of-teams) |
 <!---LeetCode Topics End-->
