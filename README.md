@@ -285,6 +285,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0424-longest-repeating-character-replacement](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0424-longest-repeating-character-replacement) |
 | [0504-base-7](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0504-base-7) |
 | [0567-permutation-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0567-permutation-in-string) |
+| [0649-dota2-senate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0696-count-binary-substrings) |
@@ -590,6 +591,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0455-assign-cookies](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0561-array-partition) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0649-dota2-senate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0680-valid-palindrome-ii) |
 | [0769-max-chunks-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -800,6 +802,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0387-first-unique-character-in-a-string) |
+| [0649-dota2-senate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0649-dota2-senate) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2762-continuous-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2762-continuous-subarrays) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
