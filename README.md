@@ -43,6 +43,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
+| [0303-range-sum-query-immutable](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0349-intersection-of-two-arrays) |
@@ -938,6 +939,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0724-find-pivot-index) |
@@ -1004,6 +1006,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
 | [1845-seat-reservation-manager](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1845-seat-reservation-manager) |
