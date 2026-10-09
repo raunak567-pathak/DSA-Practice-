@@ -403,6 +403,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3870-count-commas-in-range](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3871-count-commas-in-range-ii) |
+| [3959-check-good-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3959-check-good-integer) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Number Theory
 |  |
@@ -878,6 +879,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2974-minimum-number-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3174-clear-digits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3959-check-good-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3959-check-good-integer) |
 ## Quicksort
 |  |
 | ------- |
