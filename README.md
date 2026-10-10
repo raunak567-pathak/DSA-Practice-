@@ -121,6 +121,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2149-rearrange-array-elements-by-sign](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2270-number-of-ways-to-split-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2270-number-of-ways-to-split-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -340,6 +341,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2109-adding-spaces-to-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2109-adding-spaces-to-a-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2211-count-collisions-on-a-road](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2211-count-collisions-on-a-road) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
@@ -1112,6 +1114,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0796-rotate-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1668-maximum-repeating-substring) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Binary Lifting
 |  |
