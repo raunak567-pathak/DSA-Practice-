@@ -474,6 +474,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0104-maximum-depth-of-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0226-invert-binary-tree) |
@@ -500,6 +501,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0100-same-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0113-path-sum-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0226-invert-binary-tree) |
@@ -536,6 +538,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0104-maximum-depth-of-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0113-path-sum-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0113-path-sum-ii) |
+| [0129-sum-root-to-leaf-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0226-invert-binary-tree) |
