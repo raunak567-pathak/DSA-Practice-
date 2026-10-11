@@ -269,6 +269,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1813-sentence-similarity-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1813-sentence-similarity-iii) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2000-reverse-prefix-of-word](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2109-adding-spaces-to-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -337,6 +338,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [1980-find-unique-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+| [2000-reverse-prefix-of-word](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2000-reverse-prefix-of-word) |
 | [2027-minimum-moves-to-convert-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2027-minimum-moves-to-convert-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2109-adding-spaces-to-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2109-adding-spaces-to-a-string) |
@@ -617,6 +619,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2000-reverse-prefix-of-word](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2000-reverse-prefix-of-word) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
 | [2211-count-collisions-on-a-road](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2211-count-collisions-on-a-road) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2375-construct-smallest-number-from-di-string) |
