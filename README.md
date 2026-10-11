@@ -354,6 +354,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2405-optimal-partition-of-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2696-minimum-string-length-after-removing-substrings) |
+| [2710-remove-trailing-zeros-from-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2938-separate-black-and-white-balls](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2938-separate-black-and-white-balls) |
 | [2942-find-words-containing-character](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2942-find-words-containing-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
