@@ -371,6 +371,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0066-plus-one) |
