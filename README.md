@@ -408,6 +408,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0445-add-two-numbers-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0504-base-7](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0504-base-7) |
+| [0509-fibonacci-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0728-self-dividing-numbers) |
@@ -839,6 +840,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0234-palindrome-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -860,6 +862,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0357-count-numbers-with-unique-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0376-wiggle-subsequence) |
 | [0413-arithmetic-slices](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0413-arithmetic-slices) |
+| [0509-fibonacci-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -1243,4 +1246,8 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0654-maximum-binary-tree) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
