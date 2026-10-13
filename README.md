@@ -22,6 +22,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0055-jump-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -256,6 +257,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0031-next-permutation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0075-sort-colors) |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0125-valid-palindrome) |
