@@ -307,6 +307,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0125-valid-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0387-first-unique-character-in-a-string) |
 | [0402-remove-k-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0402-remove-k-digits) |
@@ -467,6 +468,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0039-combination-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0401-binary-watch) |
 | [1980-find-unique-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1980-find-unique-binary-string) |
@@ -519,6 +521,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0437-path-sum-iii) |
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
@@ -547,6 +550,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0437-path-sum-iii) |
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
@@ -586,6 +590,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0437-path-sum-iii) |
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
