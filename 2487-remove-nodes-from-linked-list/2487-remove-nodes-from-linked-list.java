@@ -10,7 +10,9 @@
  */
 class Solution {
     public ListNode removeNodes(ListNode head) {
+        
         if(head == null || head.next == null)return head ;
+
 
         head = rev(head);
 
@@ -19,24 +21,26 @@ class Solution {
 
         while(curr != null && curr.next != null){
             if(curr.next.val < prev.val){
-                curr.next = curr.next.next;
+                curr.next = curr.next.next ;
             }else{
-                curr = curr.next ;
+                curr = curr.next ; 
                 prev = curr;
             }
         }
         return rev(head);
     }
+
     ListNode rev(ListNode head){
 
-        ListNode prev = null , curr = head , temp ;
+        ListNode curr = head , temp , prev = null ;
 
         while(curr != null){
+
             temp = curr.next ;
             curr.next = prev ;
             prev = curr ;
-            curr = temp;
+            curr = temp ;
         }
-        return prev;
+        return prev ;
     }
 }
