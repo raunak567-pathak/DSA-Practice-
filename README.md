@@ -309,6 +309,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0067-add-binary](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0131-palindrome-partitioning) |
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0257-binary-tree-paths) |
@@ -474,6 +475,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0039-combination-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0039-combination-sum) |
 | [0089-gray-code](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0131-palindrome-partitioning) |
 | [0257-binary-tree-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0401-binary-watch) |
@@ -876,6 +878,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0072-edit-distance](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0221-maximal-square) |
 | [0322-coin-change](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0338-counting-bits) |
