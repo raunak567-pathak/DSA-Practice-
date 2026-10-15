@@ -161,6 +161,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3127-make-a-square-with-the-same-color](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3127-make-a-square-with-the-same-color) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3206-alternating-groups-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3206-alternating-groups-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -312,6 +313,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2938-separate-black-and-white-balls](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2938-separate-black-and-white-balls) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## String
 |  |
@@ -875,6 +877,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
