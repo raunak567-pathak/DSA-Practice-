@@ -140,6 +140,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2367-number-of-arithmetic-triplets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2367-number-of-arithmetic-triplets) |
 | [2401-longest-nice-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2401-longest-nice-subarray) |
 | [2439-minimize-maximum-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2439-minimize-maximum-of-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2460-apply-operations-to-an-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2465-number-of-distinct-averages) |
@@ -243,6 +244,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2364-count-number-of-bad-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2364-count-number-of-bad-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2367-number-of-arithmetic-triplets) |
 | [2405-optimal-partition-of-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2405-optimal-partition-of-string) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2465-number-of-distinct-averages) |
 | [2540-minimum-common-value](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2540-minimum-common-value) |
@@ -311,6 +313,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2149-rearrange-array-elements-by-sign](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2367-number-of-arithmetic-triplets) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2465-number-of-distinct-averages) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -877,6 +880,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2285-maximum-total-importance-of-roads](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2285-maximum-total-importance-of-roads) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2465-number-of-distinct-averages) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2706-buy-two-chocolates](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2706-buy-two-chocolates) |
