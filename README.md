@@ -21,6 +21,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0053-maximum-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0088-merge-sorted-array) |
@@ -180,6 +181,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0001-two-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0169-majority-element) |
@@ -1124,6 +1126,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0221-maximal-square](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0766-toeplitz-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0766-toeplitz-matrix) |
