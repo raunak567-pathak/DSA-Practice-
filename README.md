@@ -310,6 +310,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2938-separate-black-and-white-balls](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2938-separate-black-and-white-balls) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## String
 |  |
 | ------- |
@@ -402,6 +403,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3707-equal-score-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3707-equal-score-substrings) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3746-minimum-string-length-after-balanced-removals) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3803-count-residue-prefixes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3803-count-residue-prefixes) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
@@ -467,6 +469,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 | [3870-count-commas-in-range](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3871-count-commas-in-range-ii) |
 | [3959-check-good-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3959-check-good-integer) |
@@ -525,6 +528,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2401-longest-nice-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2401-longest-nice-subarray) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
 ## Tree
 |  |
 | ------- |
