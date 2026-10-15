@@ -256,6 +256,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3719-longest-balanced-subarray-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3803-count-residue-prefixes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3803-count-residue-prefixes) |
 | [3804-number-of-centered-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3804-number-of-centered-subarrays) |
 ## Two Pointers
 |  |
@@ -400,6 +401,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3707-equal-score-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3707-equal-score-substrings) |
 | [3746-minimum-string-length-after-balanced-removals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3803-count-residue-prefixes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3803-count-residue-prefixes) |
 | [3968-maximum-manhattan-distance-after-all-moves](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3968-maximum-manhattan-distance-after-all-moves) |
 ## Math
 |  |
