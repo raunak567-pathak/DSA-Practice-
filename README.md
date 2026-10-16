@@ -243,6 +243,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2336-smallest-number-in-infinite-set](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -965,6 +966,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1845-seat-reservation-manager](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1845-seat-reservation-manager) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2285-maximum-total-importance-of-roads](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2285-maximum-total-importance-of-roads) |
+| [2336-smallest-number-in-infinite-set](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2530-maximal-score-after-applying-k-operations) |
@@ -1193,6 +1195,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
 | [1845-seat-reservation-manager](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1845-seat-reservation-manager) |
+| [2336-smallest-number-in-infinite-set](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2336-smallest-number-in-infinite-set) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -1208,6 +1211,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
+| [2336-smallest-number-in-infinite-set](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2762-continuous-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2762-continuous-subarrays) |
 | [3477-fruits-into-baskets-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3477-fruits-into-baskets-ii) |
 ## Monotonic Queue
