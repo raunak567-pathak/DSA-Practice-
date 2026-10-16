@@ -114,6 +114,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1512-number-of-good-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1528-shuffle-string) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1652-defuse-the-bomb](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1652-defuse-the-bomb) |
 | [1686-stone-game-vi](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1686-stone-game-vi) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1732-find-the-highest-altitude) |
@@ -825,6 +826,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0643-maximum-average-subarray-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0930-binary-subarrays-with-sum) |
+| [1652-defuse-the-bomb](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1652-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2401-longest-nice-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2401-longest-nice-subarray) |
