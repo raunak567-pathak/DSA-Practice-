@@ -126,6 +126,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1975-maximum-matrix-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1975-maximum-matrix-sum) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1980-find-unique-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1980-find-unique-binary-string) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1991-find-the-middle-index-in-array) |
 | [2017-grid-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2017-grid-game) |
@@ -829,6 +830,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1652-defuse-the-bomb](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1652-defuse-the-bomb) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2401-longest-nice-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2762-continuous-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2762-continuous-subarrays) |
@@ -884,6 +886,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1686-stone-game-vi](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1686-stone-game-vi) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1921-eliminate-maximum-number-of-monsters) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2285-maximum-total-importance-of-roads](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2285-maximum-total-importance-of-roads) |
