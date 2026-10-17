@@ -166,6 +166,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2965-find-missing-and-repeated-values](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2965-find-missing-and-repeated-values) |
 | [2974-minimum-number-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2974-minimum-number-game) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3074-apple-redistribution-into-boxes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3127-make-a-square-with-the-same-color](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3127-make-a-square-with-the-same-color) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -769,6 +770,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2745-construct-the-longest-new-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2745-construct-the-longest-new-string) |
 | [2938-separate-black-and-white-balls](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2938-separate-black-and-white-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3523-make-array-non-decreasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3523-make-array-non-decreasing) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
@@ -903,6 +905,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2974-minimum-number-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2974-minimum-number-game) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3731-find-missing-elements) |
