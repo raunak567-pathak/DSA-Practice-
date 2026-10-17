@@ -160,6 +160,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2706-buy-two-chocolates](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2706-buy-two-chocolates) |
 | [2762-continuous-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2762-continuous-subarrays) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2942-find-words-containing-character](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2942-find-words-containing-character) |
 | [2951-find-the-peaks](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2951-find-the-peaks) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -418,6 +419,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2864-maximum-odd-binary-number) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2938-separate-black-and-white-balls](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2938-separate-black-and-white-balls) |
 | [2942-find-words-containing-character](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2942-find-words-containing-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -773,6 +775,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2706-buy-two-chocolates](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2706-buy-two-chocolates) |
 | [2745-construct-the-longest-new-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2745-construct-the-longest-new-string) |
 | [2864-maximum-odd-binary-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2864-maximum-odd-binary-number) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2938-separate-black-and-white-balls](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2938-separate-black-and-white-balls) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3074-apple-redistribution-into-boxes) |
@@ -962,6 +965,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1668-maximum-repeating-substring](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1668-maximum-repeating-substring) |
 | [2439-minimize-maximum-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2439-minimize-maximum-of-array) |
 | [2745-construct-the-longest-new-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2745-construct-the-longest-new-string) |
+| [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
