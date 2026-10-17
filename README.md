@@ -180,6 +180,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3523-make-array-non-decreasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3523-make-array-non-decreasing) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3583-count-special-triplets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3583-count-special-triplets) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -267,6 +268,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3583-count-special-triplets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3583-count-special-triplets) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3719-longest-balanced-subarray-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3719-longest-balanced-subarray-i) |
@@ -776,6 +778,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3074-apple-redistribution-into-boxes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3523-make-array-non-decreasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3523-make-array-non-decreasing) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -911,6 +914,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3074-apple-redistribution-into-boxes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3467-transform-array-by-parity) |
+| [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3731-find-missing-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3731-find-missing-elements) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Recursion
