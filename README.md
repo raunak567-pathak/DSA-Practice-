@@ -356,6 +356,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0242-valid-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0290-word-pattern) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0344-reverse-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0387-first-unique-character-in-a-string) |
@@ -584,6 +585,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0437-path-sum-iii) |
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
@@ -655,6 +657,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0257-binary-tree-paths) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0437-path-sum-iii) |
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
@@ -701,6 +704,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0145-binary-tree-postorder-traversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0234-palindrome-linked-list) |
+| [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0402-remove-k-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0445-add-two-numbers-ii) |
 | [0496-next-greater-element-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0496-next-greater-element-i) |
