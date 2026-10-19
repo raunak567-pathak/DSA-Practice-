@@ -20,7 +20,7 @@ class Solution {
         return count ;
     }
 
-    public void helper(TreeNode root , int max){
+    void helper(TreeNode root , int max){
 
         if(root == null)return ;
 
@@ -28,7 +28,7 @@ class Solution {
             count++;
             max = root.val;
         }
-        helper(root.left , max);
-        helper(root.right , max);
+        helper(root.left , max) ;
+        helper(root.right , max );
     }
 }
