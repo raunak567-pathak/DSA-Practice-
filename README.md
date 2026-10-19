@@ -136,6 +136,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2017-grid-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2017-grid-game) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2109-adding-spaces-to-a-string) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -855,6 +856,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2439-minimize-maximum-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2439-minimize-maximum-of-array) |
 | [2498-frog-jump-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2498-frog-jump-ii) |
 | [2540-minimum-common-value](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2540-minimum-common-value) |
@@ -936,6 +938,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2285-maximum-total-importance-of-roads](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2285-maximum-total-importance-of-roads) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
