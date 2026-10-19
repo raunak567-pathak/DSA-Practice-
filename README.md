@@ -598,6 +598,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0437-path-sum-iii) |
+| [0617-merge-two-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0700-search-in-a-binary-search-tree) |
@@ -631,6 +632,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0386-lexicographical-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0437-path-sum-iii) |
+| [0617-merge-two-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
 | [0814-binary-tree-pruning](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0872-leaf-similar-trees) |
@@ -650,6 +652,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0226-invert-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0404-sum-of-left-leaves) |
+| [0617-merge-two-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0617-merge-two-binary-trees) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -676,6 +679,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0437-path-sum-iii) |
+| [0617-merge-two-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
 | [0654-maximum-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0700-search-in-a-binary-search-tree) |
