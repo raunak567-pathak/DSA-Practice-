@@ -290,6 +290,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0018-4sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0075-sort-colors) |
@@ -346,6 +347,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0022-generate-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0067-add-binary) |
@@ -1129,10 +1131,12 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Z Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
 ## Minimax
 |  |
@@ -1291,6 +1295,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0796-rotate-string) |
 | [1408-string-matching-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1668-maximum-repeating-substring) |
@@ -1393,4 +1398,8 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2971-find-polygon-with-the-largest-perimeter) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
