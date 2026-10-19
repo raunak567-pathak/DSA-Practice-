@@ -233,6 +233,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0567-permutation-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0645-set-mismatch) |
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0692-top-k-frequent-words) |
 | [0791-custom-sort-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0791-custom-sort-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -318,6 +319,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0532-k-diff-pairs-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0567-permutation-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0696-count-binary-substrings) |
@@ -601,6 +603,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0437-path-sum-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -636,6 +639,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0437-path-sum-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0814-binary-tree-pruning](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0872-leaf-similar-trees) |
 | [0951-flip-equivalent-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0951-flip-equivalent-binary-trees) |
@@ -656,6 +660,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0322-coin-change](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0617-merge-two-binary-trees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -685,6 +690,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0437-path-sum-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0437-path-sum-iii) |
 | [0617-merge-two-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0617-merge-two-binary-trees) |
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0654-maximum-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1274,6 +1280,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0098-validate-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0700-search-in-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
