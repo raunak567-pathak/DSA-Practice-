@@ -430,6 +430,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1903-largest-odd-number-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1903-largest-odd-number-in-string) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1980-find-unique-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2000-reverse-prefix-of-word](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2000-reverse-prefix-of-word) |
@@ -826,6 +827,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1903-largest-odd-number-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1903-largest-odd-number-in-string) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1974-minimum-time-to-type-word-using-special-typewriter) |
 | [1975-maximum-matrix-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1975-maximum-matrix-sum) |
 | [2027-minimum-moves-to-convert-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2027-minimum-moves-to-convert-string) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
