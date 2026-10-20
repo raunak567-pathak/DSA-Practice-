@@ -142,6 +142,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2089-find-target-indices-after-sorting-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2109-adding-spaces-to-a-string) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2161-partition-array-according-to-given-pivot) |
@@ -430,6 +431,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2109-adding-spaces-to-a-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2211-count-collisions-on-a-road](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2211-count-collisions-on-a-road) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -505,6 +507,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1925-count-square-sum-triples](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2364-count-number-of-bad-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2364-count-number-of-bad-pairs) |
 | [2413-smallest-even-multiple](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2413-smallest-even-multiple) |
@@ -1269,6 +1272,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1975-maximum-matrix-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1975-maximum-matrix-sum) |
 | [2017-grid-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2017-grid-game) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2125-number-of-laser-beams-in-a-bank](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2965-find-missing-and-repeated-values](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2965-find-missing-and-repeated-values) |
 | [3127-make-a-square-with-the-same-color](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3127-make-a-square-with-the-same-color) |
