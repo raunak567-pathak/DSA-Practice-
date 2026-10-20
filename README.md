@@ -131,6 +131,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1813-sentence-similarity-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1813-sentence-similarity-iii) |
 | [1816-truncate-sentence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1961-check-if-string-is-a-prefix-of-array) |
@@ -816,6 +817,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1642-furthest-building-you-can-reach](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1642-furthest-building-you-can-reach) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1686-stone-game-vi](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1686-stone-game-vi) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1903-largest-odd-number-in-string) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1921-eliminate-maximum-number-of-monsters) |
