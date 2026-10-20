@@ -481,6 +481,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0258-add-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0342-power-of-four) |
@@ -665,6 +666,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0617-merge-two-binary-trees) |
@@ -1017,6 +1019,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0131-palindrome-partitioning) |
 | [0221-maximal-square](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0221-maximal-square) |
+| [0279-perfect-squares](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0338-counting-bits) |
@@ -1394,10 +1397,12 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0322-coin-change) |
 ## Euclidean Algorithm
 |  |
