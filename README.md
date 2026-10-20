@@ -29,6 +29,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0088-merge-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -790,6 +791,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0045-jump-game-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0134-gas-station](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0134-gas-station) |
 | [0376-wiggle-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0409-longest-palindrome) |
