@@ -446,6 +446,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2375-construct-smallest-number-from-di-string) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2405-optimal-partition-of-string) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
@@ -926,6 +927,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2401-longest-nice-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2762-continuous-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2762-continuous-subarrays) |
