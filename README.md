@@ -462,6 +462,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3110-score-of-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3174-clear-digits) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3707-equal-score-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3707-equal-score-substrings) |
@@ -938,6 +939,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3206-alternating-groups-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3206-alternating-groups-i) |
+| [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Sorting
 |  |
 | ------- |
