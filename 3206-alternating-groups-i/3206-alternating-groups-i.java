@@ -1,9 +1,10 @@
 class Solution {
     public int numberOfAlternatingGroups(int[] colors) {
+        
         int count = 0 ;
         int n = colors.length ;
 
-        for(int i = 0 ; i < n ; i++){
+        for(int i = 0 ; i < colors.length ; i++){
 
             int prev = colors[i];
 
