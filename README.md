@@ -393,6 +393,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0434-number-of-segments-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0504-base-7) |
+| [0516-longest-palindromic-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0567-permutation-in-string) |
 | [0649-dota2-senate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0680-valid-palindrome-ii) |
@@ -1058,6 +1059,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0392-is-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0516-longest-palindromic-subsequence) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
