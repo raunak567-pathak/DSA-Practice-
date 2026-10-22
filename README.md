@@ -387,6 +387,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0392-is-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0392-is-subsequence) |
 | [0402-remove-k-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0434-number-of-segments-in-a-string) |
@@ -500,6 +501,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0326-power-of-three](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0357-count-numbers-with-unique-digits) |
+| [0412-fizz-buzz](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -1151,6 +1153,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0067-add-binary](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0735-asteroid-collision) |
