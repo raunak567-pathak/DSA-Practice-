@@ -339,6 +339,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0696-count-binary-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0696-count-binary-substrings) |
 | [0876-middle-of-the-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0905-sort-array-by-parity) |
+| [0917-reverse-only-letters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0917-reverse-only-letters) |
 | [0948-bag-of-tokens](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1089-duplicate-zeros) |
@@ -401,6 +402,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0796-rotate-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0917-reverse-only-letters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0984-string-without-aaa-or-bbb](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0984-string-without-aaa-or-bbb) |
