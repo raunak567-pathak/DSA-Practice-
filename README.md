@@ -123,6 +123,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1512-number-of-good-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1512-number-of-good-pairs) |
 | [1528-shuffle-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1528-shuffle-string) |
+| [1539-kth-missing-positive-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1539-kth-missing-positive-number) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -924,6 +925,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
+| [1539-kth-missing-positive-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2089-find-target-indices-after-sorting-array) |
