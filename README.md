@@ -510,6 +510,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0326-power-of-three](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0357-count-numbers-with-unique-digits) |
+| [0367-valid-perfect-square](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0445-add-two-numbers-ii) |
@@ -911,6 +912,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0287-find-the-duplicate-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0349-intersection-of-two-arrays) |
+| [0367-valid-perfect-square](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0475-heaters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0532-k-diff-pairs-in-an-array) |
