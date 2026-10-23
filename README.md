@@ -108,6 +108,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1019-next-greater-node-in-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1051-height-checker](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1089-duplicate-zeros) |
+| [1200-minimum-absolute-difference](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -1004,6 +1005,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0977-squares-of-a-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0977-squares-of-a-sorted-array) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1051-height-checker) |
+| [1200-minimum-absolute-difference](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1200-minimum-absolute-difference) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1460-make-two-arrays-equal-by-reversing-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1460-make-two-arrays-equal-by-reversing-subarrays) |
