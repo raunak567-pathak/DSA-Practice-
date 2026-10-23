@@ -183,6 +183,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2574-left-and-right-sum-differences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2574-left-and-right-sum-differences) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2656-maximum-sum-with-exactly-k-elements) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2706-buy-two-chocolates](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2706-buy-two-chocolates) |
 | [2762-continuous-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2762-continuous-subarrays) |
@@ -296,6 +297,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2475-number-of-unequal-triplets-in-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2965-find-missing-and-repeated-values) |
@@ -624,6 +626,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2206-divide-array-into-equal-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
 | [2401-longest-nice-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2401-longest-nice-subarray) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3011-find-if-array-can-be-sorted) |
 | [3133-minimum-array-end](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3133-minimum-array-end) |
