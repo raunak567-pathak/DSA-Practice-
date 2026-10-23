@@ -333,6 +333,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0088-merge-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0125-valid-palindrome) |
 | [0142-linked-list-cycle-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0142-linked-list-cycle-ii) |
+| [0151-reverse-words-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0189-rotate-array) |
@@ -394,6 +395,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0072-edit-distance](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0131-palindrome-partitioning) |
+| [0151-reverse-words-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0257-binary-tree-paths) |
