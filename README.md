@@ -624,6 +624,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
 | [2401-longest-nice-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2401-longest-nice-subarray) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2932-maximum-strong-pair-xor-i) |
+| [3133-minimum-array-end](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3133-minimum-array-end) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
