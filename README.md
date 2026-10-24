@@ -86,6 +86,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0692-top-k-frequent-words) |
+| [0704-binary-search](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0735-asteroid-collision) |
@@ -954,6 +955,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0532-k-diff-pairs-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0875-koko-eating-bananas) |
