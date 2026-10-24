@@ -508,6 +508,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0007-reverse-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0066-plus-one) |
@@ -606,6 +607,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0067-add-binary) |
 | [0089-gray-code](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0136-single-number) |
