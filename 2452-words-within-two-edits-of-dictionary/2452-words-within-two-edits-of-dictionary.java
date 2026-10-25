@@ -6,28 +6,35 @@ class Solution {
         for(String q  : queries){
 
             for(String d : dictionary){
+                
 
-                int count = 0 ;
+                if(helper(q , d)){
 
-                for(int i = 0 ; i < q.length() ; i++){
-
-                    if(q.charAt(i) != d.charAt(i)){
-
-                        count++;
-
-                        if(count > 2){
-
-                            break ;
-                        }
-                    }
-                }
-
-                if(count <= 2 ){
                     list.add(q) ;
-                    break;
+
+                    break ;
                 }
             }
         }
         return list ;
+    }
+
+    private boolean helper(String  s , String t){
+
+        int count = 0 ;
+
+        for(int i = 0 ; i < s.length()  ;  i++){
+
+            if(s.charAt(i) != t.charAt(i)){
+
+                count++;
+
+                if(count > 2){
+
+                    return false;
+                }
+            }
+        }
+        return true ;
     }
 }
