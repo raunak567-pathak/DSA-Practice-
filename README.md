@@ -362,6 +362,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0696-count-binary-substrings) |
+| [0844-backspace-string-compare](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0905-sort-array-by-parity) |
 | [0917-reverse-only-letters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0917-reverse-only-letters) |
@@ -434,6 +435,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0709-to-lower-case](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0709-to-lower-case) |
 | [0791-custom-sort-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0917-reverse-only-letters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0917-reverse-only-letters) |
@@ -831,6 +833,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0735-asteroid-collision](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0739-daily-temperatures) |
 | [0769-max-chunks-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0769-max-chunks-to-make-sorted) |
+| [0844-backspace-string-compare](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1019-next-greater-node-in-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1019-next-greater-node-in-linked-list) |
@@ -1240,6 +1243,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0415-add-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0415-add-strings) |
 | [0682-baseball-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0735-asteroid-collision) |
+| [0844-backspace-string-compare](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0844-backspace-string-compare) |
 | [0867-transpose-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0867-transpose-matrix) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
