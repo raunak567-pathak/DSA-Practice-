@@ -374,6 +374,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1754-largest-merge-of-two-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1754-largest-merge-of-two-strings) |
 | [1813-sentence-similarity-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1813-sentence-similarity-iii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1963-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1963-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -469,6 +470,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1678-goal-parser-interpretation) |
+| [1754-largest-merge-of-two-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1754-largest-merge-of-two-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1813-sentence-similarity-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1813-sentence-similarity-iii) |
@@ -911,6 +913,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1642-furthest-building-you-can-reach](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1642-furthest-building-you-can-reach) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1686-stone-game-vi](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1686-stone-game-vi) |
+| [1754-largest-merge-of-two-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1754-largest-merge-of-two-strings) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1903-largest-odd-number-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1903-largest-odd-number-in-string) |
