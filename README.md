@@ -470,6 +470,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1668-maximum-repeating-substring](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1678-goal-parser-interpretation) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1813-sentence-similarity-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1813-sentence-similarity-iii) |
 | [1816-truncate-sentence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1816-truncate-sentence) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -569,6 +570,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1513-number-of-substrings-with-only-1s](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1513-number-of-substrings-with-only-1s) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1686-stone-game-vi](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1686-stone-game-vi) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1837-sum-of-digits-in-base-k) |
 | [1903-largest-odd-number-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1903-largest-odd-number-in-string) |
