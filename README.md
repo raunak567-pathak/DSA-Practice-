@@ -430,6 +430,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0567-permutation-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0649-dota2-senate) |
+| [0657-robot-return-to-origin](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0657-robot-return-to-origin) |
 | [0680-valid-palindrome-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0680-valid-palindrome-ii) |
 | [0692-top-k-frequent-words](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0692-top-k-frequent-words) |
 | [0696-count-binary-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0696-count-binary-substrings) |
@@ -1251,6 +1252,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0258-add-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0415-add-strings) |
+| [0657-robot-return-to-origin](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0844-backspace-string-compare) |
