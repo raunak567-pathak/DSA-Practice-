@@ -180,6 +180,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2498-frog-jump-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2498-frog-jump-ii) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2540-minimum-common-value](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2540-minimum-common-value) |
@@ -298,6 +299,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2465-number-of-distinct-averages](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2540-minimum-common-value) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -382,6 +384,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2460-apply-operations-to-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2465-number-of-distinct-averages) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2540-minimum-common-value) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2938-separate-black-and-white-balls](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2938-separate-black-and-white-balls) |
@@ -1072,6 +1075,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2465-number-of-distinct-averages](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2465-number-of-distinct-averages) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2491-divide-players-into-teams-of-equal-skill](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2706-buy-two-chocolates](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2706-buy-two-chocolates) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
