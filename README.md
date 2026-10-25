@@ -820,6 +820,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0144-binary-tree-preorder-traversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0234-palindrome-linked-list) |
 | [0331-verify-preorder-serialization-of-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0331-verify-preorder-serialization-of-a-binary-tree) |
 | [0394-decode-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0394-decode-string) |
@@ -1180,6 +1181,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0649-dota2-senate) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -1418,6 +1420,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0303-range-sum-query-immutable) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
