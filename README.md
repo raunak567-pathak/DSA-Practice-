@@ -141,6 +141,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1636-sort-array-by-increasing-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1642-furthest-building-you-can-reach](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1642-furthest-building-you-can-reach) |
 | [1652-defuse-the-bomb](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1652-defuse-the-bomb) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1686-stone-game-vi](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1686-stone-game-vi) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1732-find-the-highest-altitude) |
@@ -464,6 +465,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1678-goal-parser-interpretation) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
