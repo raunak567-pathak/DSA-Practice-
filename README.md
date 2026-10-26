@@ -705,6 +705,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Depth-First Search
 |  |
@@ -742,6 +743,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Breadth-First Search
 |  |
@@ -761,6 +763,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0617-merge-two-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
@@ -803,6 +806,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2236-root-equals-sum-of-children) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2331-evaluate-boolean-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 ## Linked List
 |  |
