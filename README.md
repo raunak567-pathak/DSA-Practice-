@@ -617,6 +617,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3871-count-commas-in-range-ii) |
 | [3959-check-good-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3959-check-good-integer) |
@@ -1203,6 +1204,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2439-minimize-maximum-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2439-minimize-maximum-of-array) |
 | [2745-construct-the-longest-new-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2745-construct-the-longest-new-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
+| [3857-minimum-cost-to-split-into-ones](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
