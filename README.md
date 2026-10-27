@@ -155,6 +155,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1726-tuple-with-same-product](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1726-tuple-with-same-product) |
 | [1732-find-the-highest-altitude](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1732-find-the-highest-altitude) |
+| [1748-sum-of-unique-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1748-sum-of-unique-elements) |
 | [1813-sentence-similarity-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1813-sentence-similarity-iii) |
 | [1816-truncate-sentence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1816-truncate-sentence) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -304,6 +305,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1636-sort-array-by-increasing-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
 | [1726-tuple-with-same-product](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1726-tuple-with-same-product) |
+| [1748-sum-of-unique-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
@@ -1275,6 +1277,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1394-find-lucky-integer-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1512-number-of-good-pairs) |
 | [1726-tuple-with-same-product](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1726-tuple-with-same-product) |
+| [1748-sum-of-unique-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
