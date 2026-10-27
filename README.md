@@ -216,6 +216,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3206-alternating-groups-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3206-alternating-groups-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3467-transform-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3467-transform-array-by-parity) |
 | [3477-fruits-into-baskets-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3477-fruits-into-baskets-ii) |
@@ -316,6 +317,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3121-count-the-number-of-special-characters-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -594,6 +596,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2864-maximum-odd-binary-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2864-maximum-odd-binary-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2965-find-missing-and-repeated-values) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3536-maximum-product-of-two-digits) |
