@@ -739,6 +739,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0872-leaf-similar-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0951-flip-equivalent-binary-trees) |
+| [0965-univalued-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -779,6 +780,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0872-leaf-similar-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0951-flip-equivalent-binary-trees) |
+| [0965-univalued-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -804,6 +806,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0547-number-of-provinces](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0965-univalued-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0965-univalued-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -844,6 +847,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0872-leaf-similar-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0938-range-sum-of-bst) |
 | [0951-flip-equivalent-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0951-flip-equivalent-binary-trees) |
+| [0965-univalued-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
