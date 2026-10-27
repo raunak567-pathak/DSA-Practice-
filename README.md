@@ -89,6 +89,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0645-set-mismatch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0654-maximum-binary-tree) |
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
+| [0665-non-decreasing-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0704-binary-search) |
