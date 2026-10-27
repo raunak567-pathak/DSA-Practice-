@@ -64,6 +64,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0376-wiggle-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0380-insert-delete-getrandom-o1](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -572,6 +573,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0367-valid-perfect-square](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0371-sum-of-two-integers) |
 | [0380-insert-delete-getrandom-o1](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0396-rotate-function](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0396-rotate-function) |
 | [0412-fizz-buzz](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0441-arranging-coins) |
@@ -1193,6 +1195,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0357-count-numbers-with-unique-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0376-wiggle-subsequence) |
 | [0392-is-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0516-longest-palindromic-subsequence) |
