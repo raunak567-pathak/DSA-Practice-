@@ -532,6 +532,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3110-score-of-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3110-score-of-a-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3174-clear-digits) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -983,6 +984,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3074-apple-redistribution-into-boxes) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3523-make-array-non-decreasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3523-make-array-non-decreasing) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -1269,6 +1271,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2364-count-number-of-bad-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2364-count-number-of-bad-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3046-split-the-array) |
+| [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3467-transform-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
