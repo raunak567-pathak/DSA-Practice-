@@ -122,6 +122,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1200-minimum-absolute-difference](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1288-remove-covered-intervals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1111,6 +1112,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1051-height-checker](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1200-minimum-absolute-difference) |
+| [1288-remove-covered-intervals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
