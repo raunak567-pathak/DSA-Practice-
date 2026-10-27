@@ -63,6 +63,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0349-intersection-of-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0376-wiggle-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0376-wiggle-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0380-insert-delete-getrandom-o1](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0413-arithmetic-slices](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0413-arithmetic-slices) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -258,6 +259,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0290-word-pattern](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0349-intersection-of-two-arrays) |
+| [0380-insert-delete-getrandom-o1](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0424-longest-repeating-character-replacement) |
@@ -566,6 +568,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0357-count-numbers-with-unique-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0367-valid-perfect-square](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0371-sum-of-two-integers) |
+| [0380-insert-delete-getrandom-o1](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0412-fizz-buzz](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0441-arranging-coins) |
@@ -1473,6 +1476,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0303-range-sum-query-immutable) |
+| [0380-insert-delete-getrandom-o1](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
@@ -1661,4 +1665,8 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
