@@ -330,6 +330,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3121-count-the-number-of-special-characters-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3483-unique-3-digit-even-numbers) |
@@ -532,6 +533,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3110-score-of-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3110-score-of-a-string) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3174-clear-digits) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
@@ -1271,6 +1273,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2364-count-number-of-bad-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2364-count-number-of-bad-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3046-split-the-array) |
+| [3223-minimum-length-of-string-after-operations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3223-minimum-length-of-string-after-operations) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3467-transform-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3467-transform-array-by-parity) |
