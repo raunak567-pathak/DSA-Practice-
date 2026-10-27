@@ -209,6 +209,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2974-minimum-number-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2974-minimum-number-game) |
 | [3011-find-if-array-can-be-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3011-find-if-array-can-be-sorted) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3042-count-prefix-and-suffix-pairs-i) |
+| [3046-split-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3046-split-the-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3127-make-a-square-with-the-same-color](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3127-make-a-square-with-the-same-color) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
@@ -314,6 +315,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2965-find-missing-and-repeated-values](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3046-split-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3046-split-the-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -1245,6 +1247,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
 | [2364-count-number-of-bad-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2364-count-number-of-bad-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3046-split-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3046-split-the-array) |
 | [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3467-transform-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
