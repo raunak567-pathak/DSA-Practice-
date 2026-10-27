@@ -28,6 +28,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0075-sort-colors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0088-merge-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0130-surrounded-regions](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0130-surrounded-regions) |
@@ -713,6 +714,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0113-path-sum-ii) |
@@ -821,6 +823,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0107-binary-tree-level-order-traversal-ii) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0113-path-sum-ii) |
@@ -1449,6 +1452,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -1520,6 +1524,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
