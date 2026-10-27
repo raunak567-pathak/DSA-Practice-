@@ -318,6 +318,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -517,6 +518,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3121-count-the-number-of-special-characters-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3174-clear-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3174-clear-digits) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3707-equal-score-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3707-equal-score-substrings) |
@@ -1243,6 +1245,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
 | [2364-count-number-of-bad-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2364-count-number-of-bad-pairs) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3442-maximum-difference-between-even-and-odd-frequency-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3442-maximum-difference-between-even-and-odd-frequency-i) |
 | [3467-transform-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3583-count-special-triplets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3583-count-special-triplets) |
