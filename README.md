@@ -19,6 +19,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0041-first-missing-positive](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0041-first-missing-positive) |
 | [0045-jump-game-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0066-plus-one) |
@@ -242,6 +243,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0003-longest-substring-without-repeating-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0012-integer-to-roman) |
 | [0041-first-missing-positive](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0160-intersection-of-two-linked-lists) |
@@ -414,6 +416,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0022-generate-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0072-edit-distance) |
@@ -1065,6 +1068,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0018-4sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0164-maximum-gap) |
