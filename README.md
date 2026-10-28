@@ -601,6 +601,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0523-continuous-subarray-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0728-self-dividing-numbers) |
+| [0754-reach-a-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0754-reach-a-number) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0989-add-to-array-form-of-integer) |
@@ -1062,6 +1063,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0704-binary-search](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0754-reach-a-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0754-reach-a-number) |
 | [0875-koko-eating-bananas](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0875-koko-eating-bananas) |
 | [1208-get-equal-substrings-within-budget](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1208-get-equal-substrings-within-budget) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
