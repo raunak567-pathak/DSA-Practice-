@@ -353,6 +353,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3719-longest-balanced-subarray-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3719-longest-balanced-subarray-i) |
 | [3731-find-missing-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3760-maximum-substrings-with-distinct-start) |
+| [3790-smallest-all-ones-multiple](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3790-smallest-all-ones-multiple) |
 | [3803-count-residue-prefixes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3803-count-residue-prefixes) |
 | [3804-number-of-centered-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3804-number-of-centered-subarrays) |
 ## Two Pointers
@@ -643,6 +644,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
+| [3790-smallest-all-ones-multiple](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3790-smallest-all-ones-multiple) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3857-minimum-cost-to-split-into-ones) |
 | [3870-count-commas-in-range](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3871-count-commas-in-range-ii) |
