@@ -477,6 +477,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0984-string-without-aaa-or-bbb](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0984-string-without-aaa-or-bbb) |
 | [1021-remove-outermost-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -602,6 +603,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0976-largest-perimeter-triangle](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1071-greatest-common-divisor-of-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1137-n-th-tribonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -1642,11 +1644,13 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Euclidean Algorithm
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2427-number-of-common-factors) |
 ## Greatest Common Divisor
 |  |
 | ------- |
+| [1071-greatest-common-divisor-of-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2427-number-of-common-factors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2427-number-of-common-factors) |
 ## Primality Test
