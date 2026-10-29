@@ -103,6 +103,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0692-top-k-frequent-words](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0692-top-k-frequent-words) |
 | [0704-binary-search](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0706-design-hashmap) |
 | [0724-find-pivot-index](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
 | [0735-asteroid-collision](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0735-asteroid-collision) |
@@ -299,6 +300,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0692-top-k-frequent-words](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0706-design-hashmap) |
 | [0791-custom-sort-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0791-custom-sort-string) |
 | [0817-linked-list-components](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0817-linked-list-components) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0884-uncommon-words-from-two-sentences) |
@@ -916,6 +918,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0328-odd-even-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0706-design-hashmap) |
 | [0817-linked-list-components](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0817-linked-list-components) |
 | [0876-middle-of-the-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1019-next-greater-node-in-linked-list) |
@@ -1447,6 +1450,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
 | [0705-design-hashset](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0706-design-hashmap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Z Algorithm
@@ -1578,6 +1582,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0380-insert-delete-getrandom-o1](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
 | [0933-number-of-recent-calls](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0933-number-of-recent-calls) |
 | [1845-seat-reservation-manager](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1845-seat-reservation-manager) |
