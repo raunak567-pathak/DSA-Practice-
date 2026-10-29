@@ -129,6 +129,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1019-next-greater-node-in-linked-list) |
+| [1046-last-stone-weight](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1200-minimum-absolute-difference) |
@@ -1303,6 +1304,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0692-top-k-frequent-words](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0912-sort-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0912-sort-an-array) |
+| [1046-last-stone-weight](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1642-furthest-building-you-can-reach](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1642-furthest-building-you-can-reach) |
 | [1686-stone-game-vi](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1686-stone-game-vi) |
