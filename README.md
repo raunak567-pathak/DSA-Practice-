@@ -14,6 +14,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0027-remove-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0041-first-missing-positive) |
@@ -1067,6 +1068,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0074-search-a-2d-matrix) |
