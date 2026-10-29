@@ -127,6 +127,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1200-minimum-absolute-difference](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1266-minimum-time-visiting-all-points](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -614,6 +615,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1071-greatest-common-divisor-of-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1137-n-th-tribonacci-number) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
+| [1266-minimum-time-visiting-all-points](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1323-maximum-69-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1323-maximum-69-number) |
 | [1390-four-divisors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1390-four-divisors) |
@@ -1754,4 +1756,8 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [1390-four-divisors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1390-four-divisors) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
