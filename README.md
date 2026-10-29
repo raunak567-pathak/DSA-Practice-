@@ -163,6 +163,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1823-find-the-winner-of-the-circular-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1921-eliminate-maximum-number-of-monsters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1921-eliminate-maximum-number-of-monsters) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1975-maximum-matrix-sum) |
@@ -620,6 +621,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1812-determine-color-of-a-chessboard-square](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1837-sum-of-digits-in-base-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1837-sum-of-digits-in-base-k) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1903-largest-odd-number-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1925-count-square-sum-triples) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -673,6 +675,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0257-binary-tree-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0401-binary-watch) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1980-find-unique-binary-string) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2375-construct-smallest-number-from-di-string) |
@@ -702,6 +705,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1486-xor-operation-in-an-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
 | [2401-longest-nice-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2401-longest-nice-subarray) |
@@ -1385,6 +1389,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1925-count-square-sum-triples) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2367-number-of-arithmetic-triplets) |
@@ -1639,6 +1644,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Knapsack Problem
 |  |
