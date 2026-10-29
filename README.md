@@ -608,6 +608,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0728-self-dividing-numbers) |
 | [0754-reach-a-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0754-reach-a-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0976-largest-perimeter-triangle) |
 | [0989-add-to-array-form-of-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0989-add-to-array-form-of-integer) |
@@ -712,6 +713,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0401-binary-watch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0645-set-mismatch) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
@@ -1692,6 +1694,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0204-count-primes) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 ## Sieve Theory
 |  |
 | ------- |
