@@ -620,6 +620,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1486-xor-operation-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1512-number-of-good-pairs) |
 | [1513-number-of-substrings-with-only-1s](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1513-number-of-substrings-with-only-1s) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1686-stone-game-vi](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1686-stone-game-vi) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1812-determine-color-of-a-chessboard-square) |
