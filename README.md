@@ -1277,6 +1277,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0225-implement-stack-using-queues](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0649-dota2-senate) |
+| [0933-number-of-recent-calls](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2073-time-needed-to-buy-tickets) |
@@ -1532,6 +1533,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0705-design-hashset) |
 | [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
+| [0933-number-of-recent-calls](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0933-number-of-recent-calls) |
 | [1845-seat-reservation-manager](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1845-seat-reservation-manager) |
 | [2336-smallest-number-in-infinite-set](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2336-smallest-number-in-infinite-set) |
 ## Binary Search Tree
@@ -1549,6 +1551,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0933-number-of-recent-calls) |
 ## Ordered Set
 |  |
 | ------- |
