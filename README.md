@@ -163,6 +163,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1642-furthest-building-you-can-reach](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1642-furthest-building-you-can-reach) |
 | [1652-defuse-the-bomb](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1652-defuse-the-bomb) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1686-stone-game-vi](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1686-stone-game-vi) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1726-tuple-with-same-product](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1726-tuple-with-same-product) |
@@ -323,6 +324,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1624-largest-substring-between-two-equal-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1726-tuple-with-same-product](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -522,6 +524,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1668-maximum-repeating-substring](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1668-maximum-repeating-substring) |
 | [1678-goal-parser-interpretation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1678-goal-parser-interpretation) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1754-largest-merge-of-two-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1754-largest-merge-of-two-strings) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1812-determine-color-of-a-chessboard-square) |
@@ -736,6 +739,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1486-xor-operation-in-an-array) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1525-number-of-good-ways-to-split-a-string) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2206-divide-array-into-equal-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
@@ -1350,6 +1354,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1726-tuple-with-same-product](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1748-sum-of-unique-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
