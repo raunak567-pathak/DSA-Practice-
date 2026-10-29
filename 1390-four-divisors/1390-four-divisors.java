@@ -13,7 +13,7 @@ class Solution {
 
             for(int i = 1 ; i <= Math.sqrt(num); i++){
 
-                if(num / i == 0){
+                if(num % i == 0){
                 sum += i ;
                 count++;
 
