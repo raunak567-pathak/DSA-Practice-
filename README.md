@@ -77,6 +77,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0454-4sum-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0454-4sum-ii) |
 | [0455-assign-cookies](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0475-heaters) |
@@ -940,6 +941,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0394-decode-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0445-add-two-numbers-ii) |
+| [0456-132-pattern](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -1055,6 +1057,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0503-next-greater-element-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -1091,6 +1094,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0367-valid-perfect-square](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0475-heaters) |
 | [0528-random-pick-with-weight](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -1597,6 +1601,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0456-132-pattern) |
 | [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
 | [2336-smallest-number-in-infinite-set](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2762-continuous-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2762-continuous-subarrays) |
