@@ -216,6 +216,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2540-minimum-common-value](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2540-minimum-common-value) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2574-left-and-right-sum-differences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2574-left-and-right-sum-differences) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
@@ -552,6 +553,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2405-optimal-partition-of-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2405-optimal-partition-of-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2864-maximum-odd-binary-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2864-maximum-odd-binary-number) |
@@ -1358,6 +1360,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2206-divide-array-into-equal-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
 | [2364-count-number-of-bad-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2364-count-number-of-bad-pairs) |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3046-split-the-array) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3223-minimum-length-of-string-after-operations) |
