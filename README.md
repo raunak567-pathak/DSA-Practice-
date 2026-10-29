@@ -227,6 +227,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 | [3046-split-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3046-split-the-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3127-make-a-square-with-the-same-color](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3127-make-a-square-with-the-same-color) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1037,6 +1038,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3228-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3523-make-array-non-decreasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3523-make-array-non-decreasing) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
@@ -1208,6 +1210,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3011-find-if-array-can-be-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3011-find-if-array-can-be-sorted) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3074-apple-redistribution-into-boxes) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
 | [3467-transform-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3467-transform-array-by-parity) |
 | [3536-maximum-product-of-two-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3536-maximum-product-of-two-digits) |
