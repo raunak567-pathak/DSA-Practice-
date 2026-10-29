@@ -419,6 +419,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2149-rearrange-array-elements-by-sign](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2367-number-of-arithmetic-triplets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2367-number-of-arithmetic-triplets) |
+| [2396-strictly-palindromic-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2396-strictly-palindromic-number) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2460-apply-operations-to-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2460-apply-operations-to-an-array) |
 | [2465-number-of-distinct-averages](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2465-number-of-distinct-averages) |
@@ -633,6 +634,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2364-count-number-of-bad-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2364-count-number-of-bad-pairs) |
+| [2396-strictly-palindromic-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2485-find-the-pivot-integer) |
@@ -1501,6 +1503,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2396-strictly-palindromic-number) |
 | [2745-construct-the-longest-new-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2745-construct-the-longest-new-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3674-minimum-operations-to-equalize-array) |
