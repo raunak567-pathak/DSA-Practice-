@@ -239,6 +239,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3483-unique-3-digit-even-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3523-make-array-non-decreasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3523-make-array-non-decreasing) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3583-count-special-triplets) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
@@ -646,6 +647,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3432-count-partitions-with-even-sum-difference](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3536-maximum-product-of-two-digits) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -1500,6 +1502,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0292-nim-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0292-nim-game) |
 | [2745-construct-the-longest-new-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2745-construct-the-longest-new-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Pigeonhole Principle
 |  |
@@ -1652,6 +1655,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0062-unique-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0062-unique-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Knapsack Problem
 |  |
 | ------- |
