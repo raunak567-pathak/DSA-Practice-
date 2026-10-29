@@ -83,6 +83,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0496-next-greater-element-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0554-brick-wall](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0554-brick-wall) |
@@ -609,6 +610,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0507-perfect-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0528-random-pick-with-weight) |
 | [0628-maximum-product-of-three-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0728-self-dividing-numbers) |
 | [0754-reach-a-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0754-reach-a-number) |
@@ -1088,6 +1090,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0475-heaters) |
+| [0528-random-pick-with-weight](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
@@ -1475,6 +1478,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0238-product-of-array-except-self](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0523-continuous-subarray-sum) |
+| [0528-random-pick-with-weight](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0930-binary-subarrays-with-sum) |
@@ -1767,6 +1771,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0380-insert-delete-getrandom-o1) |
+| [0528-random-pick-with-weight](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0528-random-pick-with-weight) |
 ## Prime Factorization
 |  |
 | ------- |
