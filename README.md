@@ -640,6 +640,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2864-maximum-odd-binary-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2864-maximum-odd-binary-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2965-find-missing-and-repeated-values) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3536-maximum-product-of-two-digits) |
@@ -714,6 +715,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3011-find-if-array-can-be-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3011-find-if-array-can-be-sorted) |
 | [3133-minimum-array-end](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3133-minimum-array-end) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3750-minimum-number-of-flips-to-reverse-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3750-minimum-number-of-flips-to-reverse-binary-string) |
@@ -1213,6 +1215,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0509-fibonacci-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2487-remove-nodes-from-linked-list) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -1370,6 +1373,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2974-minimum-number-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2974-minimum-number-game) |
 | [3174-clear-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3174-clear-digits) |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3477-fruits-into-baskets-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3477-fruits-into-baskets-ii) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
