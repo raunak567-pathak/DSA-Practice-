@@ -136,6 +136,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1207-unique-number-of-occurrences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1207-unique-number-of-occurrences) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1266-minimum-time-visiting-all-points) |
+| [1267-count-servers-that-communicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -843,6 +844,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0965-univalued-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0965-univalued-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1026-maximum-difference-between-node-and-ancestor) |
+| [1267-count-servers-that-communicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -868,6 +870,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0617-merge-two-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0965-univalued-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0965-univalued-binary-tree) |
+| [1267-count-servers-that-communicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -1359,6 +1362,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0884-uncommon-words-from-two-sentences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1267-count-servers-that-communicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1370-increasing-decreasing-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1394-find-lucky-integer-in-an-array) |
@@ -1589,6 +1593,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0463-island-perimeter](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0463-island-perimeter) |
 | [0766-toeplitz-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0867-transpose-matrix) |
+| [1267-count-servers-that-communicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-find-valid-matrix-given-row-and-column-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1605-find-valid-matrix-given-row-and-column-sums) |
 | [1975-maximum-matrix-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1975-maximum-matrix-sum) |
@@ -1789,6 +1794,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0130-surrounded-regions](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0547-number-of-provinces) |
+| [1267-count-servers-that-communicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Polygons
 |  |
