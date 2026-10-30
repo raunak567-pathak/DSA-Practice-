@@ -7,7 +7,7 @@ class Solution {
 
         for(char c : s.toCharArray()){
 
-            freq[c - 'a']--;
+            freq[c - 'a']++;
         }
 
         int count = 0 ;
