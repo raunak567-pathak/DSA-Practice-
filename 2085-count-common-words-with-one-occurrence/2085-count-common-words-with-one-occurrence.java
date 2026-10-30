@@ -17,9 +17,9 @@ class Solution {
 
         int count = 0 ;
 
-        for(String w : words1)
+        for(String word : words1)
 
-            if(map1.get(w) == 1 && map2.getOrDefault(w , 0) == 1 ) ;
+            if(map1.get(word) == 1 && map2.getOrDefault(word , 0) == 1 ) 
 
             count++;
 
