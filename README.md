@@ -127,6 +127,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0977-squares-of-a-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0977-squares-of-a-sorted-array) |
 | [0989-add-to-array-form-of-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0989-add-to-array-form-of-integer) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1046-last-stone-weight) |
@@ -312,6 +313,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0817-linked-list-components](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0817-linked-list-components) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0930-binary-subarrays-with-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0930-binary-subarrays-with-sum) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1207-unique-number-of-occurrences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1207-unique-number-of-occurrences) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -1361,6 +1363,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0692-top-k-frequent-words](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0692-top-k-frequent-words) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1267-count-servers-that-communicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
