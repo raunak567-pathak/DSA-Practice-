@@ -189,6 +189,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2073-time-needed-to-buy-tickets) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2109-adding-spaces-to-a-string) |
@@ -334,6 +335,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1980-find-unique-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1980-find-unique-binary-string) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -544,6 +546,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2027-minimum-moves-to-convert-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2027-minimum-moves-to-convert-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2109-adding-spaces-to-a-string) |
 | [2116-check-if-a-parentheses-string-can-be-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2116-check-if-a-parentheses-string-can-be-valid) |
@@ -1365,6 +1368,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2053-kth-distinct-string-in-an-array) |
+| [2085-count-common-words-with-one-occurrence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2206-divide-array-into-equal-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
 | [2364-count-number-of-bad-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2364-count-number-of-bad-pairs) |
