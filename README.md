@@ -219,6 +219,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2530-maximal-score-after-applying-k-operations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2540-minimum-common-value](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2540-minimum-common-value) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2558-take-gifts-from-the-richest-pile) |
+| [2560-house-robber-iv](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2560-house-robber-iv) |
 | [2574-left-and-right-sum-differences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2574-left-and-right-sum-differences) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
@@ -1063,6 +1064,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2498-frog-jump-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2498-frog-jump-ii) |
 | [2530-maximal-score-after-applying-k-operations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2530-maximal-score-after-applying-k-operations) |
+| [2560-house-robber-iv](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2560-house-robber-iv) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2706-buy-two-chocolates) |
 | [2745-construct-the-longest-new-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2745-construct-the-longest-new-string) |
@@ -1143,6 +1145,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2439-minimize-maximum-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2439-minimize-maximum-of-array) |
 | [2498-frog-jump-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2498-frog-jump-ii) |
 | [2540-minimum-common-value](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2540-minimum-common-value) |
+| [2560-house-robber-iv](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2560-house-robber-iv) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3477-fruits-into-baskets-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3477-fruits-into-baskets-ii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -1311,6 +1314,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1668-maximum-repeating-substring) |
 | [2439-minimize-maximum-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2439-minimize-maximum-of-array) |
+| [2560-house-robber-iv](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2560-house-robber-iv) |
 | [2745-construct-the-longest-new-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2745-construct-the-longest-new-string) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3857-minimum-cost-to-split-into-ones) |
