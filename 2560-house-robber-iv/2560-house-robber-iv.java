@@ -17,7 +17,7 @@ class Solution {
             if(isValid(nums , mid , k))right = mid ;
             else left = mid + 1 ;
         }
-        return left ;
+        return right ;
     }
 
     boolean isValid(int [] nums , int target , int k){
