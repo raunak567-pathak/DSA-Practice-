@@ -86,6 +86,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0496-next-greater-element-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -305,6 +306,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0454-4sum-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0454-4sum-ii) |
 | [0496-next-greater-element-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0525-contiguous-array) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0554-brick-wall](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0560-subarray-sum-equals-k) |
@@ -1550,6 +1552,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0238-product-of-array-except-self](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0523-continuous-subarray-sum) |
+| [0525-contiguous-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0525-contiguous-array) |
 | [0528-random-pick-with-weight](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0528-random-pick-with-weight) |
 | [0560-subarray-sum-equals-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0724-find-pivot-index) |
