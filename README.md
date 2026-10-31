@@ -169,6 +169,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1636-sort-array-by-increasing-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1642-furthest-building-you-can-reach](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1642-furthest-building-you-can-reach) |
 | [1652-defuse-the-bomb](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1652-defuse-the-bomb) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1686-stone-game-vi](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1686-stone-game-vi) |
@@ -340,6 +341,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1624-largest-substring-between-two-equal-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1624-largest-substring-between-two-equal-characters) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1647-minimum-deletions-to-make-character-frequencies-unique](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1647-minimum-deletions-to-make-character-frequencies-unique) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1726-tuple-with-same-product](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1726-tuple-with-same-product) |
 | [1748-sum-of-unique-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1748-sum-of-unique-elements) |
@@ -1162,6 +1164,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1539-kth-missing-positive-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1539-kth-missing-positive-number) |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1608-special-array-with-x-elements-greater-than-or-equal-x) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2439-minimize-maximum-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2439-minimize-maximum-of-array) |
@@ -1187,6 +1190,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0930-binary-subarrays-with-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0930-binary-subarrays-with-sum) |
 | [1208-get-equal-substrings-within-budget](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1208-get-equal-substrings-within-budget) |
 | [1652-defuse-the-bomb](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1652-defuse-the-bomb) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -1565,6 +1569,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1732-find-the-highest-altitude](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1732-find-the-highest-altitude) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1991-find-the-middle-index-in-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1991-find-the-middle-index-in-array) |
