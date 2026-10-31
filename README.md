@@ -1123,6 +1123,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0240-search-a-2d-matrix-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0275-h-index-ii) |
+| [0278-first-bad-version](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0349-intersection-of-two-arrays) |
@@ -1854,5 +1855,6 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Interactive
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
