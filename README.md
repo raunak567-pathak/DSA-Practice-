@@ -858,6 +858,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1026-maximum-difference-between-node-and-ancestor](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1026-maximum-difference-between-node-and-ancestor) |
 | [1267-count-servers-that-communicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1971-find-if-path-exists-in-graph) |
 | [2331-evaluate-boolean-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2331-evaluate-boolean-binary-tree) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -884,6 +885,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0965-univalued-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0965-univalued-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1971-find-if-path-exists-in-graph](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
@@ -1746,6 +1748,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0547-number-of-provinces) |
+| [1971-find-if-path-exists-in-graph](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1971-find-if-path-exists-in-graph) |
 | [2285-maximum-total-importance-of-roads](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2285-maximum-total-importance-of-roads) |
 ## Combinatorics
 |  |
@@ -1822,6 +1825,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0200-number-of-islands](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0547-number-of-provinces) |
 | [1267-count-servers-that-communicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1267-count-servers-that-communicate) |
+| [1971-find-if-path-exists-in-graph](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1971-find-if-path-exists-in-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 ## Polygons
 |  |
