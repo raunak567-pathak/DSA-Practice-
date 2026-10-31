@@ -1127,6 +1127,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0300-longest-increasing-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0441-arranging-coins) |
 | [0456-132-pattern](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0456-132-pattern) |
@@ -1850,4 +1851,8 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0084-largest-rectangle-in-histogram) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
