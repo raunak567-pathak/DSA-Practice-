@@ -575,6 +575,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2390-removing-stars-from-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2405-optimal-partition-of-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2452-words-within-two-edits-of-dictionary) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2586-count-the-number-of-vowel-strings-in-range) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2696-minimum-string-length-after-removing-substrings) |
@@ -1564,6 +1565,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2017-grid-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2017-grid-game) |
 | [2270-number-of-ways-to-split-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2270-number-of-ways-to-split-array) |
 | [2439-minimize-maximum-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2439-minimize-maximum-of-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2485-find-the-pivot-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2485-find-the-pivot-integer) |
 | [2574-left-and-right-sum-differences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2574-left-and-right-sum-differences) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2971-find-polygon-with-the-largest-perimeter) |
