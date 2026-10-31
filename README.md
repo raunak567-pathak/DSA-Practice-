@@ -113,6 +113,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0766-toeplitz-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0817-linked-list-components](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0817-linked-list-components) |
+| [0825-friends-of-appropriate-ages](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0825-friends-of-appropriate-ages) |
 | [0860-lemonade-change](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0875-koko-eating-bananas) |
@@ -421,6 +422,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0680-valid-palindrome-ii) |
 | [0696-count-binary-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0696-count-binary-substrings) |
+| [0825-friends-of-appropriate-ages](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0825-friends-of-appropriate-ages) |
 | [0844-backspace-string-compare](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0905-sort-array-by-parity) |
@@ -1132,6 +1134,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0754-reach-a-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0754-reach-a-number) |
+| [0825-friends-of-appropriate-ages](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0825-friends-of-appropriate-ages) |
 | [0875-koko-eating-bananas](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0875-koko-eating-bananas) |
 | [1208-get-equal-substrings-within-budget](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1208-get-equal-substrings-within-budget) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -1210,6 +1213,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0747-largest-number-at-least-twice-of-others](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0769-max-chunks-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0791-custom-sort-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0791-custom-sort-string) |
+| [0825-friends-of-appropriate-ages](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0825-friends-of-appropriate-ages) |
 | [0905-sort-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0912-sort-an-array) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0945-minimum-increment-to-make-array-unique) |
