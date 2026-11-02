@@ -954,6 +954,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0086-partition-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0092-reverse-linked-list-ii) |
 | [0142-linked-list-cycle-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0142-linked-list-cycle-ii) |
+| [0147-insertion-sort-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0206-reverse-linked-list) |
@@ -1215,6 +1216,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0049-group-anagrams](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0088-merge-sorted-array) |
+| [0147-insertion-sort-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0215-kth-largest-element-in-an-array) |
