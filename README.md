@@ -950,6 +950,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0002-add-two-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0061-rotate-list) |
 | [0086-partition-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0092-reverse-linked-list-ii) |
@@ -1306,6 +1307,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0002-add-two-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0203-remove-linked-list-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0231-power-of-two) |
