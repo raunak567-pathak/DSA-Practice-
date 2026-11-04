@@ -18,6 +18,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0035-search-insert-position](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0041-first-missing-positive) |
+| [0042-trapping-rain-water](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0049-group-anagrams) |
@@ -407,6 +408,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0027-remove-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -990,6 +992,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0144-binary-tree-preorder-traversal) |
@@ -1118,6 +1121,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0084-largest-rectangle-in-histogram) |
 | [0402-remove-k-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0456-132-pattern) |
@@ -1339,6 +1343,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0022-generate-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0055-jump-game) |
