@@ -430,6 +430,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0455-assign-cookies](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0475-heaters) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0541-reverse-string-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0611-valid-triangle-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0611-valid-triangle-number) |
@@ -507,6 +508,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0451-sort-characters-by-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0516-longest-palindromic-subsequence) |
+| [0541-reverse-string-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0541-reverse-string-ii) |
 | [0567-permutation-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0647-palindromic-substrings) |
 | [0649-dota2-senate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0649-dota2-senate) |
