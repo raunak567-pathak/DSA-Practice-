@@ -117,6 +117,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0769-max-chunks-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0769-max-chunks-to-make-sorted) |
 | [0817-linked-list-components](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0817-linked-list-components) |
 | [0825-friends-of-appropriate-ages](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0825-friends-of-appropriate-ages) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0875-koko-eating-bananas) |
@@ -1163,6 +1164,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0744-find-smallest-letter-greater-than-target](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0754-reach-a-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0754-reach-a-number) |
 | [0825-friends-of-appropriate-ages](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0825-friends-of-appropriate-ages) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0875-koko-eating-bananas) |
 | [1208-get-equal-substrings-within-budget](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1208-get-equal-substrings-within-budget) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -1896,4 +1898,8 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0278-first-bad-version](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0374-guess-number-higher-or-lower) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
