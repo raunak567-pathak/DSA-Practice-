@@ -237,6 +237,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
 | [2706-buy-two-chocolates](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2706-buy-two-chocolates) |
 | [2762-continuous-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2762-continuous-subarrays) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2900-longest-unequal-adjacent-groups-subsequence-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2900-longest-unequal-adjacent-groups-subsequence-i) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -1178,6 +1179,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2540-minimum-common-value](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2540-minimum-common-value) |
 | [2560-house-robber-iv](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2563-count-the-number-of-fair-pairs) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3477-fruits-into-baskets-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3477-fruits-into-baskets-ii) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3759-count-elements-with-at-least-k-greater-values) |
@@ -1205,6 +1207,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2401-longest-nice-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2401-longest-nice-subarray) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2762-continuous-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2762-continuous-subarrays) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2932-maximum-strong-pair-xor-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -1288,6 +1291,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2563-count-the-number-of-fair-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2563-count-the-number-of-fair-pairs) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [2706-buy-two-chocolates](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2706-buy-two-chocolates) |
+| [2779-maximum-beauty-of-an-array-after-applying-operation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2779-maximum-beauty-of-an-array-after-applying-operation) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2966-divide-array-into-arrays-with-max-difference](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2971-find-polygon-with-the-largest-perimeter) |
