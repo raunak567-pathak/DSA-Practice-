@@ -1,7 +1,7 @@
 class Solution {
     public char findTheDifference(String s, String t) {
         
-        StringBuilder sb = new StringBuilder() ;
+        StringBuilder sb = new StringBuilder(s) ;
 
         int i = 0 ;
         for(i = 0 ; i < t.length() ; i++){
