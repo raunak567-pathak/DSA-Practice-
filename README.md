@@ -213,6 +213,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2161-partition-array-according-to-given-pivot](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2206-divide-array-into-equal-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2206-divide-array-into-equal-pairs) |
+| [2261-k-divisible-elements-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2261-k-divisible-elements-subarrays) |
 | [2270-number-of-ways-to-split-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2270-number-of-ways-to-split-array) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -363,6 +364,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2085-count-common-words-with-one-occurrence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2206-divide-array-into-equal-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2206-divide-array-into-equal-pairs) |
+| [2261-k-divisible-elements-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2261-k-divisible-elements-subarrays) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2336-smallest-number-in-infinite-set](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2336-smallest-number-in-infinite-set) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -1548,6 +1550,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0204-count-primes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0204-count-primes) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1925-count-square-sum-triples](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1925-count-square-sum-triples) |
+| [2261-k-divisible-elements-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2261-k-divisible-elements-subarrays) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2367-number-of-arithmetic-triplets) |
 | [2427-number-of-common-factors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2427-number-of-common-factors) |
@@ -1560,6 +1563,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2261-k-divisible-elements-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2261-k-divisible-elements-subarrays) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
@@ -1568,6 +1572,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0705-design-hashset](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0706-design-hashmap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [2261-k-divisible-elements-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2261-k-divisible-elements-subarrays) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3042-count-prefix-and-suffix-pairs-i) |
 ## Z Algorithm
 |  |
@@ -1744,6 +1749,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0386-lexicographical-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0692-top-k-frequent-words) |
 | [1023-camelcase-matching](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1023-camelcase-matching) |
+| [2261-k-divisible-elements-subarrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2261-k-divisible-elements-subarrays) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3042-count-prefix-and-suffix-pairs-i) |
