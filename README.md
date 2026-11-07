@@ -138,6 +138,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1019-next-greater-node-in-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1019-next-greater-node-in-linked-list) |
+| [1023-camelcase-matching](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1023-camelcase-matching) |
 | [1046-last-stone-weight](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1089-duplicate-zeros) |
@@ -452,6 +453,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0917-reverse-only-letters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0917-reverse-only-letters) |
 | [0948-bag-of-tokens](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0948-bag-of-tokens) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0977-squares-of-a-sorted-array) |
+| [1023-camelcase-matching](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1023-camelcase-matching) |
 | [1089-duplicate-zeros](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1089-duplicate-zeros) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -535,6 +537,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0926-flip-string-to-monotone-increasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0984-string-without-aaa-or-bbb](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0984-string-without-aaa-or-bbb) |
 | [1021-remove-outermost-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1021-remove-outermost-parentheses) |
+| [1023-camelcase-matching](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1023-camelcase-matching) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -1740,6 +1743,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0386-lexicographical-numbers) |
 | [0692-top-k-frequent-words](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0692-top-k-frequent-words) |
+| [1023-camelcase-matching](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1023-camelcase-matching) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3042-count-prefix-and-suffix-pairs-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3042-count-prefix-and-suffix-pairs-i) |
@@ -1773,6 +1777,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0796-rotate-string) |
+| [1023-camelcase-matching](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1023-camelcase-matching) |
 | [1408-string-matching-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1668-maximum-repeating-substring) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2185-counting-words-with-a-given-prefix) |
