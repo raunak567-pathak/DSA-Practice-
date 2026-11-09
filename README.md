@@ -133,6 +133,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0974-subarray-sums-divisible-by-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0976-largest-perimeter-triangle](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0977-squares-of-a-sorted-array) |
+| [0978-longest-turbulent-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0978-longest-turbulent-subarray) |
 | [0989-add-to-array-form-of-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0989-add-to-array-form-of-integer) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -1232,6 +1233,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0643-maximum-average-subarray-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0930-binary-subarrays-with-sum) |
+| [0978-longest-turbulent-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0978-longest-turbulent-subarray) |
 | [1208-get-equal-substrings-within-budget](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1394,6 +1396,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0647-palindromic-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0978-longest-turbulent-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0978-longest-turbulent-subarray) |
 | [1137-n-th-tribonacci-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1137-n-th-tribonacci-number) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1395-count-number-of-teams](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1395-count-number-of-teams) |
