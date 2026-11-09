@@ -142,6 +142,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1023-camelcase-matching](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1023-camelcase-matching) |
 | [1046-last-stone-weight](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1046-last-stone-weight) |
 | [1051-height-checker](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1051-height-checker) |
+| [1052-grumpy-bookstore-owner](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1052-grumpy-bookstore-owner) |
 | [1089-duplicate-zeros](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1089-duplicate-zeros) |
 | [1200-minimum-absolute-difference](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1200-minimum-absolute-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1207-unique-number-of-occurrences) |
@@ -1234,6 +1235,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0658-find-k-closest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0658-find-k-closest-elements) |
 | [0930-binary-subarrays-with-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0930-binary-subarrays-with-sum) |
 | [0978-longest-turbulent-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0978-longest-turbulent-subarray) |
+| [1052-grumpy-bookstore-owner](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1052-grumpy-bookstore-owner) |
 | [1208-get-equal-substrings-within-budget](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1208-get-equal-substrings-within-budget) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
