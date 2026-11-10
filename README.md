@@ -222,6 +222,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2364-count-number-of-bad-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2364-count-number-of-bad-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2367-number-of-arithmetic-triplets) |
+| [2399-check-distances-between-same-letters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2399-check-distances-between-same-letters) |
 | [2401-longest-nice-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2401-longest-nice-subarray) |
 | [2439-minimize-maximum-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2439-minimize-maximum-of-array) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
@@ -377,6 +378,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2364-count-number-of-bad-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2364-count-number-of-bad-pairs) |
 | [2367-number-of-arithmetic-triplets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2367-number-of-arithmetic-triplets) |
+| [2399-check-distances-between-same-letters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2399-check-distances-between-same-letters) |
 | [2405-optimal-partition-of-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2405-optimal-partition-of-string) |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -607,6 +609,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2375-construct-smallest-number-from-di-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2375-construct-smallest-number-from-di-string) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2390-removing-stars-from-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2390-removing-stars-from-a-string) |
+| [2399-check-distances-between-same-letters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2399-check-distances-between-same-letters) |
 | [2405-optimal-partition-of-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2405-optimal-partition-of-string) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2483-minimum-penalty-for-a-shop) |
