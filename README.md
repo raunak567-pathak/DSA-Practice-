@@ -127,6 +127,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0912-sort-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0912-sort-an-array) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0915-partition-array-into-disjoint-intervals) |
 | [0930-binary-subarrays-with-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0930-binary-subarrays-with-sum) |
+| [0944-delete-columns-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0948-bag-of-tokens](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0948-bag-of-tokens) |
 | [0973-k-closest-points-to-origin](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0973-k-closest-points-to-origin) |
@@ -543,6 +544,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0917-reverse-only-letters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0944-delete-columns-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0984-string-without-aaa-or-bbb](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0984-string-without-aaa-or-bbb) |
 | [1021-remove-outermost-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1021-remove-outermost-parentheses) |
 | [1023-camelcase-matching](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1023-camelcase-matching) |
@@ -1935,6 +1937,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0300-longest-increasing-subsequence) |
+| [0944-delete-columns-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0944-delete-columns-to-make-sorted) |
 ## Flow Network
 |  |
 | ------- |
