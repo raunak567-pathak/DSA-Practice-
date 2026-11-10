@@ -7,7 +7,7 @@ class Solution {
 
             if(n % i == 0){
 
-                StringBuilder sb = s.substring(0 , i ) ;
+                String sb = s.substring(0 , i ) ;
 
                 StringBuilder res = new StringBuilder() ;
 
