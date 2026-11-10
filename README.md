@@ -522,6 +522,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0424-longest-repeating-character-replacement](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0434-number-of-segments-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0541-reverse-string-ii) |
@@ -1598,6 +1599,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
+| [0459-repeated-substring-pattern](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -1803,6 +1805,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0459-repeated-substring-pattern) |
 | [0796-rotate-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0796-rotate-string) |
 | [1023-camelcase-matching](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1023-camelcase-matching) |
 | [1408-string-matching-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1408-string-matching-in-an-array) |
@@ -1927,6 +1930,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0459-repeated-substring-pattern) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
