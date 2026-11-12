@@ -201,6 +201,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1991-find-the-middle-index-in-array) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2017-grid-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2017-grid-game) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
@@ -368,6 +369,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [1980-find-unique-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1980-find-unique-binary-string) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -1491,6 +1493,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1897-redistribute-characters-to-make-all-strings-equal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1897-redistribute-characters-to-make-all-strings-equal) |
 | [2001-number-of-pairs-of-interchangeable-rectangles](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2001-number-of-pairs-of-interchangeable-rectangles) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2053-kth-distinct-string-in-an-array) |
 | [2085-count-common-words-with-one-occurrence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2085-count-common-words-with-one-occurrence) |
 | [2206-divide-array-into-equal-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2206-divide-array-into-equal-pairs) |
