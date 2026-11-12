@@ -154,6 +154,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1390-four-divisors) |
@@ -800,6 +801,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0868-binary-gap](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1486-xor-operation-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1486-xor-operation-in-an-array) |
@@ -1316,6 +1318,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1288-remove-covered-intervals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1403-minimum-subsequence-in-non-increasing-order) |
@@ -1476,6 +1479,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1221-split-a-string-in-balanced-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1267-count-servers-that-communicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1370-increasing-decreasing-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1370-increasing-decreasing-string) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1400-construct-k-palindrome-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1400-construct-k-palindrome-strings) |
