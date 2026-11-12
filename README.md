@@ -105,6 +105,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0665-non-decreasing-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0665-non-decreasing-array) |
 | [0682-baseball-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0682-baseball-game) |
 | [0692-top-k-frequent-words](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0706-design-hashmap) |
@@ -901,6 +902,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0695-max-area-of-island) |
 | [0814-binary-tree-pruning](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0814-binary-tree-pruning) |
 | [0872-leaf-similar-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0872-leaf-similar-trees) |
 | [0938-range-sum-of-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0938-range-sum-of-bst) |
@@ -935,6 +937,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0617-merge-two-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0695-max-area-of-island](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0695-max-area-of-island) |
 | [0965-univalued-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0965-univalued-binary-tree) |
 | [1267-count-servers-that-communicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -1721,6 +1724,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0240-search-a-2d-matrix-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0463-island-perimeter) |
+| [0695-max-area-of-island](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0766-toeplitz-matrix) |
 | [0867-transpose-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0867-transpose-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1267-count-servers-that-communicate) |
@@ -1932,6 +1936,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0130-surrounded-regions](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0695-max-area-of-island) |
 | [1267-count-servers-that-communicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [1971-find-if-path-exists-in-graph](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1971-find-if-path-exists-in-graph) |
 | [2658-maximum-number-of-fish-in-a-grid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2658-maximum-number-of-fish-in-a-grid) |
