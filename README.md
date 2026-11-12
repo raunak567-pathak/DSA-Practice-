@@ -301,6 +301,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0041-first-missing-positive](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0073-set-matrix-zeroes) |
+| [0138-copy-list-with-random-pointer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0169-majority-element) |
@@ -1005,6 +1006,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0086-partition-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0138-copy-list-with-random-pointer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0138-copy-list-with-random-pointer) |
 | [0142-linked-list-cycle-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0142-linked-list-cycle-ii) |
 | [0147-insertion-sort-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0160-intersection-of-two-linked-lists) |
