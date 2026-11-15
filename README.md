@@ -88,6 +88,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0503-next-greater-element-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0525-contiguous-array) |
+| [0526-beautiful-arrangement](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0526-beautiful-arrangement) |
 | [0528-random-pick-with-weight](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0528-random-pick-with-weight) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -778,6 +779,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0257-binary-tree-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0401-binary-watch) |
+| [0526-beautiful-arrangement](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0526-beautiful-arrangement) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1980-find-unique-binary-string) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2178-maximum-split-of-positive-even-integers) |
@@ -804,6 +806,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0401-binary-watch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0401-binary-watch) |
 | [0461-hamming-distance](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0476-number-complement) |
+| [0526-beautiful-arrangement](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0526-beautiful-arrangement) |
 | [0645-set-mismatch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0645-set-mismatch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0868-binary-gap](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0868-binary-gap) |
@@ -1419,6 +1422,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0413-arithmetic-slices](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0413-arithmetic-slices) |
 | [0509-fibonacci-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0516-longest-palindromic-subsequence) |
+| [0526-beautiful-arrangement](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0526-beautiful-arrangement) |
 | [0647-palindromic-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0647-palindromic-substrings) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0926-flip-string-to-monotone-increasing) |
@@ -1999,4 +2003,8 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0973-k-closest-points-to-origin) |
+## Bitmask
+|  |
+| ------- |
+| [0526-beautiful-arrangement](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0526-beautiful-arrangement) |
 <!---LeetCode Topics End-->
