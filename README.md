@@ -84,6 +84,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0463-island-perimeter](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0463-island-perimeter) |
 | [0475-heaters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0523-continuous-subarray-sum) |
@@ -779,6 +780,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0257-binary-tree-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0357-count-numbers-with-unique-digits) |
 | [0401-binary-watch](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0401-binary-watch) |
+| [0494-target-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0494-target-sum) |
 | [0526-beautiful-arrangement](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0526-beautiful-arrangement) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1980-find-unique-binary-string) |
@@ -1420,6 +1422,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0392-is-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0392-is-subsequence) |
 | [0396-rotate-function](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0413-arithmetic-slices) |
+| [0494-target-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0516-longest-palindromic-subsequence) |
 | [0526-beautiful-arrangement](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0526-beautiful-arrangement) |
@@ -1887,6 +1890,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0279-perfect-squares](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0322-coin-change) |
+| [0494-target-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -2007,4 +2011,8 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0526-beautiful-arrangement) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
