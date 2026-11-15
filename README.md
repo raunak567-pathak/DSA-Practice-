@@ -604,6 +604,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1980-find-unique-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1980-find-unique-binary-string) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2000-reverse-prefix-of-word](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2000-reverse-prefix-of-word) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2027-minimum-moves-to-convert-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2027-minimum-moves-to-convert-string) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2053-kth-distinct-string-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2053-kth-distinct-string-in-an-array) |
@@ -784,6 +785,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0526-beautiful-arrangement](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0526-beautiful-arrangement) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1980-find-unique-binary-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1980-find-unique-binary-string) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2375-construct-smallest-number-from-di-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2375-construct-smallest-number-from-di-string) |
 ## Bit Manipulation
@@ -821,6 +823,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2206-divide-array-into-equal-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2206-divide-array-into-equal-pairs) |
 | [2351-first-letter-to-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2351-first-letter-to-appear-twice) |
 | [2401-longest-nice-subarray](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2401-longest-nice-subarray) |
@@ -1438,6 +1441,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1525-number-of-good-ways-to-split-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1525-number-of-good-ways-to-split-a-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1668-maximum-repeating-substring](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1668-maximum-repeating-substring) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2439-minimize-maximum-of-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2439-minimize-maximum-of-array) |
 | [2560-house-robber-iv](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2560-house-robber-iv) |
 | [2745-construct-the-longest-new-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2745-construct-the-longest-new-string) |
@@ -2011,6 +2015,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 |  |
 | ------- |
 | [0526-beautiful-arrangement](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0526-beautiful-arrangement) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## 0-1 Knapsack
 |  |
 | ------- |
