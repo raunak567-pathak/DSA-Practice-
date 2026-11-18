@@ -155,6 +155,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1267-count-servers-that-communicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [1288-remove-covered-intervals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1288-remove-covered-intervals) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -707,6 +708,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1266-minimum-time-visiting-all-points](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1266-minimum-time-visiting-all-points) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1390-four-divisors) |
