@@ -288,6 +288,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3583-count-special-triplets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3583-count-special-triplets) |
+| [3668-restore-finishing-order](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3668-restore-finishing-order) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
@@ -414,6 +415,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3542-minimum-operations-to-convert-all-elements-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3542-minimum-operations-to-convert-all-elements-to-zero) |
 | [3583-count-special-triplets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3583-count-special-triplets) |
+| [3668-restore-finishing-order](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3668-restore-finishing-order) |
 | [3684-maximize-sum-of-at-most-k-distinct-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3684-maximize-sum-of-at-most-k-distinct-elements) |
 | [3712-sum-of-elements-with-frequency-divisible-by-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3712-sum-of-elements-with-frequency-divisible-by-k) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3718-smallest-missing-multiple-of-k) |
