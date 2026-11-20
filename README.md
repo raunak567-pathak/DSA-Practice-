@@ -754,6 +754,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+| [3516-find-closest-person](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3516-find-closest-person) |
 | [3536-maximum-product-of-two-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3536-maximum-product-of-two-digits) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
