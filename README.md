@@ -735,6 +735,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2169-count-operations-to-obtain-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2169-count-operations-to-obtain-zero) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2178-maximum-split-of-positive-even-integers) |
 | [2364-count-number-of-bad-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2364-count-number-of-bad-pairs) |
 | [2396-strictly-palindromic-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2396-strictly-palindromic-number) |
@@ -1583,6 +1584,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2149-rearrange-array-elements-by-sign](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2169-count-operations-to-obtain-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2169-count-operations-to-obtain-zero) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2211-count-collisions-on-a-road](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2211-count-collisions-on-a-road) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
