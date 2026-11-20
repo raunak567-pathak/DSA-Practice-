@@ -734,6 +734,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2028-find-missing-observations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2028-find-missing-observations) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2038-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2038-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2119-a-number-after-a-double-reversal](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2119-a-number-after-a-double-reversal) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2169-count-operations-to-obtain-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2169-count-operations-to-obtain-zero) |
 | [2178-maximum-split-of-positive-even-integers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2178-maximum-split-of-positive-even-integers) |
