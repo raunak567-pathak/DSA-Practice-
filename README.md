@@ -521,6 +521,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0125-valid-palindrome](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0151-reverse-words-in-a-string) |
+| [0171-excel-sheet-column-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0257-binary-tree-paths) |
@@ -669,6 +670,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0069-sqrtx](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0089-gray-code) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0171-excel-sheet-column-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0202-happy-number) |
