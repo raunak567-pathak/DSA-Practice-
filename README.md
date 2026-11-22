@@ -543,6 +543,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0459-repeated-substring-pattern](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0459-repeated-substring-pattern) |
 | [0504-base-7](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0516-longest-palindromic-subsequence) |
+| [0520-detect-capital](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0567-permutation-in-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0567-permutation-in-string) |
