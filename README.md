@@ -159,6 +159,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1352-product-of-the-last-k-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -719,6 +720,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1323-maximum-69-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1352-product-of-the-last-k-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1390-four-divisors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1390-four-divisors) |
 | [1486-xor-operation-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1512-number-of-good-pairs) |
@@ -1691,6 +1693,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0930-binary-subarrays-with-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1208-get-equal-substrings-within-budget](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1208-get-equal-substrings-within-budget) |
+| [1352-product-of-the-last-k-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1422-maximum-score-after-splitting-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1422-maximum-score-after-splitting-a-string) |
 | [1508-range-sum-of-sorted-subarray-sums](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1508-range-sum-of-sorted-subarray-sums) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
@@ -1791,6 +1794,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0706-design-hashmap](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0706-design-hashmap) |
 | [0729-my-calendar-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0729-my-calendar-i) |
 | [0933-number-of-recent-calls](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1352-product-of-the-last-k-numbers) |
 | [1845-seat-reservation-manager](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1845-seat-reservation-manager) |
 | [2336-smallest-number-in-infinite-set](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2336-smallest-number-in-infinite-set) |
 ## Binary Search Tree
@@ -1810,6 +1814,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1352-product-of-the-last-k-numbers) |
 ## Ordered Set
 |  |
 | ------- |
