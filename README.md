@@ -276,6 +276,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3074-apple-redistribution-into-boxes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3127-make-a-square-with-the-same-color](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3127-make-a-square-with-the-same-color) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -410,6 +411,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3046-split-the-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3046-split-the-array) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3159-find-occurrences-of-an-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3223-minimum-length-of-string-after-operations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3223-minimum-length-of-string-after-operations) |
@@ -846,6 +848,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2932-maximum-strong-pair-xor-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2932-maximum-strong-pair-xor-i) |
 | [3011-find-if-array-can-be-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3011-find-if-array-can-be-sorted) |
 | [3133-minimum-array-end](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3133-minimum-array-end) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3674-minimum-operations-to-equalize-array) |
