@@ -28,6 +28,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0073-set-matrix-zeroes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0084-largest-rectangle-in-histogram) |
@@ -797,6 +798,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0022-generate-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0131-palindrome-partitioning) |
@@ -815,6 +817,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | ------- |
 | [0029-divide-two-integers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0089-gray-code) |
 | [0136-single-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0137-single-number-ii) |
