@@ -46,6 +46,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0164-maximum-gap](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0204-count-primes) |
@@ -531,6 +532,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0151-reverse-words-in-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0171-excel-sheet-column-number) |
+| [0179-largest-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0257-binary-tree-paths) |
@@ -1134,6 +1136,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0055-jump-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0134-gas-station) |
+| [0179-largest-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0179-largest-number) |
 | [0324-wiggle-sort-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0324-wiggle-sort-ii) |
 | [0376-wiggle-subsequence](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0376-wiggle-subsequence) |
 | [0402-remove-k-digits](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0402-remove-k-digits) |
@@ -1325,6 +1328,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0147-insertion-sort-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0147-insertion-sort-list) |
 | [0164-maximum-gap](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0229-majority-element-ii) |
