@@ -130,6 +130,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0905-sort-array-by-parity](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0905-sort-array-by-parity) |
 | [0912-sort-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0912-sort-an-array) |
 | [0915-partition-array-into-disjoint-intervals](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0915-partition-array-into-disjoint-intervals) |
+| [0929-unique-email-addresses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0930-binary-subarrays-with-sum) |
 | [0944-delete-columns-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -351,6 +352,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0791-custom-sort-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0791-custom-sort-string) |
 | [0817-linked-list-components](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0817-linked-list-components) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0929-unique-email-addresses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1010-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -568,6 +570,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0917-reverse-only-letters](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0917-reverse-only-letters) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0926-flip-string-to-monotone-increasing) |
+| [0929-unique-email-addresses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0929-unique-email-addresses) |
 | [0944-delete-columns-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0944-delete-columns-to-make-sorted) |
 | [0984-string-without-aaa-or-bbb](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0984-string-without-aaa-or-bbb) |
 | [1021-remove-outermost-parentheses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1021-remove-outermost-parentheses) |
