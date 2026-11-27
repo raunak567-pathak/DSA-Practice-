@@ -122,6 +122,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0747-largest-number-at-least-twice-of-others](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0766-toeplitz-matrix) |
 | [0769-max-chunks-to-make-sorted](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0769-max-chunks-to-make-sorted) |
+| [0812-largest-triangle-area](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0812-largest-triangle-area) |
 | [0817-linked-list-components](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0817-linked-list-components) |
 | [0825-friends-of-appropriate-ages](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0825-friends-of-appropriate-ages) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -717,6 +718,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0728-self-dividing-numbers](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0728-self-dividing-numbers) |
 | [0754-reach-a-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0754-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0812-largest-triangle-area](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0812-largest-triangle-area) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0976-largest-perimeter-triangle) |
@@ -2003,6 +2005,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Polygons
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0812-largest-triangle-area) |
 | [0976-largest-perimeter-triangle](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0976-largest-perimeter-triangle) |
 | [2971-find-polygon-with-the-largest-perimeter](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2971-find-polygon-with-the-largest-perimeter) |
 ## Knuth–Morris–Pratt Algorithm
@@ -2031,6 +2034,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 ## Geometry
 |  |
 | ------- |
+| [0812-largest-triangle-area](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0812-largest-triangle-area) |
 | [0973-k-closest-points-to-origin](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0973-k-closest-points-to-origin) |
 | [1266-minimum-time-visiting-all-points](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1266-minimum-time-visiting-all-points) |
 ## Range Minimum/Maximum Query
