@@ -125,6 +125,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0812-largest-triangle-area](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0812-largest-triangle-area) |
 | [0817-linked-list-components](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0817-linked-list-components) |
 | [0825-friends-of-appropriate-ages](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0825-friends-of-appropriate-ages) |
+| [0840-magic-squares-in-grid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0840-magic-squares-in-grid) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0860-lemonade-change](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0867-transpose-matrix) |
@@ -355,6 +356,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0706-design-hashmap](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0706-design-hashmap) |
 | [0791-custom-sort-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0791-custom-sort-string) |
 | [0817-linked-list-components](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0817-linked-list-components) |
+| [0840-magic-squares-in-grid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0840-magic-squares-in-grid) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0929-unique-email-addresses](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0929-unique-email-addresses) |
 | [0930-binary-subarrays-with-sum](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0930-binary-subarrays-with-sum) |
@@ -721,6 +723,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0754-reach-a-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0754-reach-a-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0812-largest-triangle-area](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0812-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0877-stone-game) |
 | [0973-k-closest-points-to-origin](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0973-k-closest-points-to-origin) |
 | [0976-largest-perimeter-triangle](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0976-largest-perimeter-triangle) |
@@ -1790,6 +1793,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0463-island-perimeter](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0695-max-area-of-island) |
 | [0766-toeplitz-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0766-toeplitz-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0840-magic-squares-in-grid) |
 | [0867-transpose-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0867-transpose-matrix) |
 | [1267-count-servers-that-communicate](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1267-count-servers-that-communicate) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
