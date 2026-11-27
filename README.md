@@ -251,6 +251,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2530-maximal-score-after-applying-k-operations](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2530-maximal-score-after-applying-k-operations) |
 | [2540-minimum-common-value](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2540-minimum-common-value) |
 | [2542-maximum-subsequence-score](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2542-maximum-subsequence-score) |
+| [2549-count-distinct-numbers-on-board](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2549-count-distinct-numbers-on-board) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2560-house-robber-iv](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2560-house-robber-iv) |
 | [2563-count-the-number-of-fair-pairs](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2563-count-the-number-of-fair-pairs) |
@@ -408,6 +409,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2475-number-of-unequal-triplets-in-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2491-divide-players-into-teams-of-equal-skill](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2491-divide-players-into-teams-of-equal-skill) |
 | [2540-minimum-common-value](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2540-minimum-common-value) |
+| [2549-count-distinct-numbers-on-board](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2549-count-distinct-numbers-on-board) |
 | [2610-convert-an-array-into-a-2d-array-with-conditions](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2610-convert-an-array-into-a-2d-array-with-conditions) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2932-maximum-strong-pair-xor-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2932-maximum-strong-pair-xor-i) |
@@ -762,6 +764,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2413-smallest-even-multiple](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2413-smallest-even-multiple) |
 | [2427-number-of-common-factors](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2427-number-of-common-factors) |
 | [2485-find-the-pivot-integer](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2485-find-the-pivot-integer) |
+| [2549-count-distinct-numbers-on-board](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2549-count-distinct-numbers-on-board) |
 | [2652-sum-multiples](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2652-sum-multiples) |
 | [2745-construct-the-longest-new-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2745-construct-the-longest-new-string) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -1617,6 +1620,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2390-removing-stars-from-a-string](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2460-apply-operations-to-an-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2549-count-distinct-numbers-on-board) |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2558-take-gifts-from-the-richest-pile) |
 | [2696-minimum-string-length-after-removing-substrings](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2696-minimum-string-length-after-removing-substrings) |
 | [2974-minimum-number-game](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2974-minimum-number-game) |
