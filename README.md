@@ -771,6 +771,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [2816-double-a-number-represented-as-a-linked-list](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2816-double-a-number-represented-as-a-linked-list) |
 | [2864-maximum-odd-binary-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2864-maximum-odd-binary-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/2965-find-missing-and-repeated-values) |
+| [3099-harshad-number](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3099-harshad-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/3304-find-the-k-th-character-in-string-game-i) |
