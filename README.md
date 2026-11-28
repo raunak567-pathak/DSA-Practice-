@@ -909,6 +909,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0404-sum-of-left-leaves](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0437-path-sum-iii) |
 | [0543-diameter-of-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0543-diameter-of-binary-tree) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
@@ -956,6 +957,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0463-island-perimeter](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0547-number-of-provinces) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0652-find-duplicate-subtrees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0652-find-duplicate-subtrees) |
@@ -993,6 +995,7 @@ A well-structured repository of Data Structures and Algorithms solutions in Java
 | [0404-sum-of-left-leaves](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0404-sum-of-left-leaves) |
 | [0463-island-perimeter](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0547-number-of-provinces) |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0559-maximum-depth-of-n-ary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/raunak567-pathak/DSA-Practice-/tree/master/0653-two-sum-iv-input-is-a-bst) |
